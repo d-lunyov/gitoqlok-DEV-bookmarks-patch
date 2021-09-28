@@ -1,0 +1,82 @@
+{
+  "qInfo": {
+    "qId": "413ec32f-d6a6-491a-b57b-a9fe2c889c82",
+    "qType": "bookmark"
+  },
+  "qBookmark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          },
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ]
+      }
+    ],
+    "qUtcModifyTime": 44467.80935185185,
+    "qVariableItems": [],
+    "qPatches": []
+  },
+  "qFieldInfos": [
+    {
+      "qFieldName": "Поле_1",
+      "qValuesCount": 2,
+      "qExcludedValuesCount": 0
+    },
+    {
+      "qFieldName": "Поле_2",
+      "qValuesCount": 2,
+      "qExcludedValuesCount": 0
+    }
+  ],
+  "creationDate": "2021-09-28T13:30:01.612Z",
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "Поле_1, Поле_2",
+  "qMetaDef": {
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata",
+      "approve"
+    ],
+    "title": "Sheet1_only_selections",
+    "description": ""
+  }
+}
