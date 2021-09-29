@@ -1,0 +1,97 @@
+{
+  "qInfo": {
+    "qId": "c4f6129b-929c-4fc1-9dc4-6ec088c688b2",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "book2",
+    "description": ""
+  },
+  "creationDate": "2021-09-28T14:58:09.000Z",
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "Поле_1, Поле_2",
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_1",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            },
+            {
+              "qDef": {
+                "qName": "Поле_2",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        }
+      ],
+      "qUtcModifyTime": 44467.87054398148,
+      "qVariableItems": [],
+      "qPatches": [
+        {
+          "qInfo": {
+            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+            "qType": "sheet"
+          },
+          "qPatches": [],
+          "qChildren": [
+            {
+              "qInfo": {
+                "qId": "VUEeq",
+                "qType": "auto-chart"
+              },
+              "qPatches": [
+                {
+                  "qOp": "replace",
+                  "qPath": "/qUndoExclude/generated/qHyperCubeDef/qDimensions",
+                  "qValue": "[{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"Поле_1\"],\"qFieldLabels\":[],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qReverseSort\":true,\"qActiveField\":0,\"autoSort\":true,\"cId\":\"SmsYGL\",\"othersLabel\":\"Другие\",\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"urlPosition\":\"dimension\",\"urlLabel\":\"\",\"linkUrl\":\"\",\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\"}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"othersLabel\":\"Другие\"}]"
+                }
+              ],
+              "qChildren": []
+            },
+            {
+              "qInfo": {
+                "qId": "mAguB",
+                "qType": "auto-chart"
+              },
+              "qPatches": [],
+              "qChildren": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
