@@ -1,0 +1,91 @@
+{
+  "qInfo": {
+    "qId": "a1fefc4a-3460-4495-96ae-af63652a58d4",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "allUpTwoLastSelected",
+    "description": ""
+  },
+  "creationDate": "2021-09-29T08:53:51.181Z",
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "Поле_1, Поле_2",
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_1",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            },
+            {
+              "qDef": {
+                "qName": "Поле_2",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        }
+      ],
+      "qUtcModifyTime": 44468.61752314815,
+      "qVariableItems": [],
+      "qPatches": [
+        {
+          "qInfo": {
+            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+            "qType": "sheet"
+          },
+          "qPatches": [],
+          "qChildren": [
+            {
+              "qInfo": {
+                "qId": "VUEeq",
+                "qType": "auto-chart"
+              },
+              "qPatches": [],
+              "qChildren": []
+            },
+            {
+              "qInfo": {
+                "qId": "mAguB",
+                "qType": "auto-chart"
+              },
+              "qPatches": [],
+              "qChildren": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
