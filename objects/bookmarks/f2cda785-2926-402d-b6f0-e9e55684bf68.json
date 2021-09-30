@@ -1,0 +1,48 @@
+{
+  "qInfo": {
+    "qId": "f2cda785-2926-402d-b6f0-e9e55684bf68",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {},
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле3_1",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        },
+        {
+          "qStateName": "jjj",
+          "qFieldItems": []
+        },
+        {
+          "qStateName": "new",
+          "qFieldItems": []
+        }
+      ],
+      "qUtcModifyTime": 44469.93009259259,
+      "qVariableItems": [],
+      "qPatches": []
+    }
+  }
+}
