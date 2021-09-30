@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "ghJzRj",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=1"
+    ],
+    "qFieldLabels": [
+      "1"
+    ],
+    "title": "1",
+    "coloring": {
+      "changeHash": "0.27272830140679116"
+    }
+  },
+  "qMetaDef": {
+    "title": "1",
+    "description": "",
+    "tags": []
+  }
+}

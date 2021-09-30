@@ -1,0 +1,10 @@
+{
+  "qName": "Поле3_1",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Таблица3"
+  ]
+}

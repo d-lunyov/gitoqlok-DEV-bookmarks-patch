@@ -1,24 +1,22 @@
 {
   "qProperty": {
     "qInfo": {
-      "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+      "qId": "50a76990-2a47-4f37-8b13-458c9804a5c9",
       "qType": "sheet"
     },
     "qMetaDef": {
-      "title": "Sheet1",
+      "title": "Sheet2",
       "description": ""
     },
-    "rank": 0,
+    "rank": 1,
     "thumbnail": {
-      "qStaticContentUrlDef": {
-        "qUrl": "/appcontent/9ae1ceb4-fe33-4bc7-8497-7d9636805909/sheet_thumb_a88dd5af-d125-4f7f-ad90-d2692c70fba8-0.1820805985694316.png"
-      }
+      "qStaticContentUrlDef": {}
     },
     "columns": 24,
     "rows": 12,
     "cells": [
       {
-        "name": "VUEeq",
+        "name": "eZUFVsj",
         "type": "auto-chart",
         "col": 0,
         "row": 0,
@@ -32,7 +30,7 @@
         }
       },
       {
-        "name": "mAguB",
+        "name": "bkcWp",
         "type": "auto-chart",
         "col": 12,
         "row": 0,
@@ -60,18 +58,17 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "VUEeq",
+          "qId": "eZUFVsj",
           "qType": "auto-chart"
         },
         "qMetaDef": {},
-        "qStateName": "$",
         "qHyperCubeDef": {
           "qDimensions": [
             {
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [
-                  "Поле_1"
+                  "Поле3_1"
                 ],
                 "qFieldLabels": [],
                 "qSortCriterias": [
@@ -124,29 +121,7 @@
           },
           "qColumnOrder": [],
           "qExpansionState": [],
-          "qDynamicScript": [],
-          "qLayoutExclude": {
-            "qHyperCubeDef": {
-              "qDimensions": [],
-              "qMeasures": [],
-              "qInterColumnSortOrder": [],
-              "qInitialDataFetch": [],
-              "qReductionMode": "N",
-              "qMode": "S",
-              "qPseudoDimPos": -1,
-              "qNoOfLeftDims": -1,
-              "qMaxStackedCells": 5000,
-              "qCalcCond": {},
-              "qTitle": {},
-              "qCalcCondition": {
-                "qCond": {},
-                "qMsg": {}
-              },
-              "qColumnOrder": [],
-              "qExpansionState": [],
-              "qDynamicScript": []
-            }
-          }
+          "qDynamicScript": []
         },
         "showTitles": true,
         "title": "",
@@ -156,7 +131,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": 700087099,
+          "hashCode": -1364130725,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -164,7 +139,7 @@
                   "qDef": {
                     "qGrouping": "N",
                     "qFieldDefs": [
-                      "Поле_1"
+                      "Поле3_1"
                     ],
                     "qFieldLabels": [],
                     "qSortCriterias": [
@@ -178,7 +153,7 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "SmsYGL",
+                    "cId": "dvSTmK",
                     "othersLabel": "Другие",
                     "textAlign": {
                       "auto": true,
@@ -266,7 +241,7 @@
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
-            "qStateName": "$",
+            "qStateName": "",
             "components": [],
             "totals": {
               "show": true,
@@ -300,8 +275,8 @@
                 "analysis": "list",
                 "dims": [
                   {
-                    "field": "Поле_1",
-                    "expr": "Поле_1",
+                    "field": "Поле3_1",
+                    "expr": "Поле3_1",
                     "cType": "eField"
                   }
                 ],
@@ -316,15 +291,14 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "mAguB",
+          "qId": "bkcWp",
           "qType": "auto-chart"
         },
         "qMetaDef": {},
-        "qStateName": "new",
         "qHyperCubeDef": {
           "qDimensions": [
             {
-              "qLibraryId": "ZchA",
+              "qLibraryId": "ghJzRj",
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [],
@@ -374,31 +348,9 @@
           },
           "qColumnOrder": [],
           "qExpansionState": [],
-          "qDynamicScript": [],
-          "qLayoutExclude": {
-            "qHyperCubeDef": {
-              "qDimensions": [],
-              "qMeasures": [],
-              "qInterColumnSortOrder": [],
-              "qInitialDataFetch": [],
-              "qReductionMode": "N",
-              "qMode": "S",
-              "qPseudoDimPos": -1,
-              "qNoOfLeftDims": -1,
-              "qMaxStackedCells": 5000,
-              "qCalcCond": {},
-              "qTitle": {},
-              "qCalcCondition": {
-                "qCond": {},
-                "qMsg": {}
-              },
-              "qColumnOrder": [],
-              "qExpansionState": [],
-              "qDynamicScript": []
-            }
-          }
+          "qDynamicScript": []
         },
-        "showTitles": true,
+        "showTitles": false,
         "title": "",
         "subtitle": "",
         "footnote": "",
@@ -406,12 +358,12 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": 1553001286,
+          "hashCode": 1915084885,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
                 {
-                  "qLibraryId": "ZchA",
+                  "qLibraryId": "ghJzRj",
                   "qDef": {
                     "qGrouping": "N",
                     "qFieldDefs": [],
@@ -427,7 +379,7 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "PwMAJ",
+                    "cId": "aJXjPG",
                     "othersLabel": "Другие",
                     "textAlign": {
                       "auto": true,
@@ -509,13 +461,13 @@
             "search": {
               "sorting": "auto"
             },
-            "showTitles": true,
+            "showTitles": false,
             "title": "",
             "subtitle": "",
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
-            "qStateName": "new",
+            "qStateName": "",
             "components": [],
             "totals": {
               "show": true,
@@ -549,7 +501,7 @@
                 "analysis": "list",
                 "dims": [
                   {
-                    "libId": "ZchA",
+                    "libId": "ghJzRj",
                     "cType": "eLibItem"
                   }
                 ],

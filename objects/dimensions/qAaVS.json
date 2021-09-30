@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "qAaVS",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=1,2"
+    ],
+    "qFieldLabels": [
+      "f12"
+    ],
+    "title": "f12",
+    "coloring": {
+      "changeHash": "0.31873219736474345"
+    }
+  },
+  "qMetaDef": {
+    "title": "f12",
+    "description": "",
+    "tags": []
+  }
+}
