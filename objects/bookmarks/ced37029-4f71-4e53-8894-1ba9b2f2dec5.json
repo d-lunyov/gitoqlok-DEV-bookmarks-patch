@@ -1,0 +1,70 @@
+{
+  "qInfo": {
+    "qId": "ced37029-4f71-4e53-8894-1ba9b2f2dec5",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "pole1_4_pole2_5",
+    "description": ""
+  },
+  "creationDate": "2021-09-30T10:52:07.465Z",
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "Поле_1",
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_1",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        },
+        {
+          "qStateName": "new",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_2",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        }
+      ],
+      "qUtcModifyTime": 44469.69962962963,
+      "qVariableItems": [],
+      "qPatches": []
+    }
+  }
+}
