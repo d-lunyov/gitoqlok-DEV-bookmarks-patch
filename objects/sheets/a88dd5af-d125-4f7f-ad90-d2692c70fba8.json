@@ -295,6 +295,7 @@
           "qType": "auto-chart"
         },
         "qMetaDef": {},
+        "qStateName": "new",
         "qHyperCubeDef": {
           "qDimensions": [
             {
@@ -348,9 +349,31 @@
           },
           "qColumnOrder": [],
           "qExpansionState": [],
-          "qDynamicScript": []
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
         },
-        "showTitles": false,
+        "showTitles": true,
         "title": "",
         "subtitle": "",
         "footnote": "",
@@ -358,7 +381,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": -1653270522,
+          "hashCode": 1553001286,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -379,7 +402,7 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "JtcSy",
+                    "cId": "PwMAJ",
                     "othersLabel": "Другие",
                     "textAlign": {
                       "auto": true,
@@ -461,7 +484,7 @@
             "search": {
               "sorting": "auto"
             },
-            "showTitles": false,
+            "showTitles": true,
             "title": "",
             "subtitle": "",
             "footnote": "",
