@@ -76,17 +76,41 @@
                 "qFieldLabels": [],
                 "qSortCriterias": [
                   {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
                     "qSortByLoadOrder": 1,
                     "qExpression": {}
                   }
                 ],
                 "qNumberPresentations": [],
-                "qActiveField": 0
+                "qReverseSort": true,
+                "qActiveField": 0,
+                "qSortIndicator": "A",
+                "autoSort": true,
+                "cId": "SmsYGL",
+                "othersLabel": "Другие2",
+                "textAlign": {
+                  "auto": true,
+                  "align": "left"
+                },
+                "representation": {
+                  "type": "text",
+                  "urlPosition": "dimension",
+                  "urlLabel": "",
+                  "linkUrl": "",
+                  "imageSetting": "label",
+                  "imageLabel": "",
+                  "imageUrl": ""
+                }
               },
               "qOtherTotalSpec": {
                 "qOtherMode": "OTHER_OFF",
-                "qOtherCounted": {},
-                "qOtherLimit": {},
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
                 "qOtherLimitMode": "OTHER_GT_LIMIT",
                 "qForceBadValueKeeping": true,
                 "qApplyEvenWhenPossiblyWrongResult": true,
@@ -102,7 +126,8 @@
               "qCalcCondition": {
                 "qCond": {},
                 "qMsg": {}
-              }
+              },
+              "othersLabel": "Другие2"
             }
           ],
           "qMeasures": [],
@@ -156,7 +181,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": 700087099,
+          "hashCode": -815349305,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -176,10 +201,11 @@
                       }
                     ],
                     "qNumberPresentations": [],
+                    "qReverseSort": true,
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "SmsYGL",
-                    "othersLabel": "Другие",
+                    "cId": "aLgXWt",
+                    "othersLabel": "Другие2",
                     "textAlign": {
                       "auto": true,
                       "align": "left"
@@ -192,7 +218,8 @@
                       "imageSetting": "label",
                       "imageLabel": "",
                       "imageUrl": ""
-                    }
+                    },
+                    "qSortIndicator": "A"
                   },
                   "qOtherTotalSpec": {
                     "qOtherMode": "OTHER_OFF",
@@ -218,7 +245,7 @@
                     "qCond": {},
                     "qMsg": {}
                   },
-                  "othersLabel": "Другие"
+                  "othersLabel": "Другие2"
                 }
               ],
               "qMeasures": [],
@@ -292,6 +319,9 @@
               "quarantine": {
                 "conditionalShowHide": {
                   "dimensions": {}
+                },
+                "tableRepresentation": {
+                  "dimensions": {}
                 }
               }
             },
@@ -320,7 +350,7 @@
           "qType": "auto-chart"
         },
         "qMetaDef": {},
-        "qStateName": "new",
+        "qStateName": "jjj",
         "qHyperCubeDef": {
           "qDimensions": [
             {
@@ -515,7 +545,7 @@
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
-            "qStateName": "new",
+            "qStateName": "jjj",
             "components": [],
             "totals": {
               "show": true,

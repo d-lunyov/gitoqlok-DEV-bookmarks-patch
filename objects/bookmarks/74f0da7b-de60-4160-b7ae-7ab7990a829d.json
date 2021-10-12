@@ -1,0 +1,33 @@
+{
+  "qInfo": {
+    "qId": "74f0da7b-de60-4160-b7ae-7ab7990a829d",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "title222333"
+  },
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": []
+        },
+        {
+          "qStateName": "jjj",
+          "qFieldItems": []
+        },
+        {
+          "qStateName": "new",
+          "qFieldItems": []
+        }
+      ],
+      "qUtcModifyTime": 44480.841631944444,
+      "qVariableItems": [],
+      "qPatches": []
+    }
+  },
+  "_gitoqlok": {
+    "fieldValues": []
+  }
+}

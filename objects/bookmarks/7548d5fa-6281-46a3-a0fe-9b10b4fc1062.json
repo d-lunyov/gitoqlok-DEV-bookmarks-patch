@@ -1,13 +1,13 @@
 {
   "qInfo": {
-    "qId": "c9538d6d-ac86-4089-b49d-0ec5a7eb2f59",
+    "qId": "7548d5fa-6281-46a3-a0fe-9b10b4fc1062",
     "qType": "bookmark"
   },
   "qMetaDef": {
-    "title": "pole1_123_pole2_345",
+    "title": "up3",
     "description": ""
   },
-  "creationDate": "2021-09-30T17:56:34.549Z",
+  "creationDate": "2021-10-12T09:40:56.164Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1",
   "qData": {
@@ -34,7 +34,12 @@
               },
               "qValues": [],
               "qExcludedValues": []
-            },
+            }
+          ]
+        },
+        {
+          "qStateName": "jjj",
+          "qFieldItems": [
             {
               "qDef": {
                 "qName": "Поле_2",
@@ -57,17 +62,31 @@
           ]
         },
         {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
           "qStateName": "new",
           "qFieldItems": []
         }
       ],
-      "qUtcModifyTime": 44469.99561342593,
+      "qUtcModifyTime": 44481.65012731482,
       "qVariableItems": [],
-      "qPatches": []
+      "qPatches": [
+        {
+          "qInfo": {
+            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+            "qType": "sheet"
+          },
+          "qPatches": [],
+          "qChildren": [
+            {
+              "qInfo": {
+                "qId": "VUEeq",
+                "qType": "auto-chart"
+              },
+              "qPatches": [],
+              "qChildren": []
+            }
+          ]
+        }
+      ]
     }
   },
   "_gitoqlok": {
@@ -77,15 +96,11 @@
         "fieldValues": [
           {
             "qIsNumeric": true,
-            "qNumber": 1
+            "qNumber": 4
           },
           {
             "qIsNumeric": true,
-            "qNumber": 2
-          },
-          {
-            "qIsNumeric": true,
-            "qNumber": 3
+            "qNumber": 5
           }
         ]
       },
@@ -94,15 +109,7 @@
         "fieldValues": [
           {
             "qIsNumeric": true,
-            "qNumber": 3
-          },
-          {
-            "qIsNumeric": true,
-            "qNumber": 4
-          },
-          {
-            "qIsNumeric": true,
-            "qNumber": 5
+            "qNumber": 2
           }
         ]
       }
