@@ -17,3 +17,4 @@ Branch Name|Qlik application
 ---|---
 main|[https://dev2.datanomix.pro/sso/sense/app/9ae1ceb4-fe33-4bc7-8497-7d9636805909](https://dev2.datanomix.pro/sso/sense/app/9ae1ceb4-fe33-4bc7-8497-7d9636805909)
 branch2|[https://dev2.datanomix.pro/sso/sense/app/null](https://dev2.datanomix.pro/sso/sense/app/null)
+deployed3|[https://dev2.datanomix.pro/sso/sense/app/null](https://dev2.datanomix.pro/sso/sense/app/null)
