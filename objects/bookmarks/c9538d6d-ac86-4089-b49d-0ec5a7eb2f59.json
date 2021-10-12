@@ -15,57 +15,10 @@
       "qStateData": [
         {
           "qStateName": "$",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_1",
-                "qType": "PRESENT"
-              },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            },
-            {
-              "qDef": {
-                "qName": "Поле_2",
-                "qType": "PRESENT"
-              },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "new",
           "qFieldItems": []
         }
       ],
-      "qUtcModifyTime": 44469.99561342593,
+      "qUtcModifyTime": 44481.70108796296,
       "qVariableItems": [],
       "qPatches": []
     }

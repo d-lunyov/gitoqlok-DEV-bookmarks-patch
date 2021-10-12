@@ -16,37 +16,11 @@
         {
           "qStateName": "$",
           "qFieldItems": []
-        },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": []
         }
       ],
-      "qUtcModifyTime": 44481.64795138889,
+      "qUtcModifyTime": 44481.70108796296,
       "qVariableItems": [],
-      "qPatches": [
-        {
-          "qInfo": {
-            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-            "qType": "sheet"
-          },
-          "qPatches": [],
-          "qChildren": [
-            {
-              "qInfo": {
-                "qId": "VUEeq",
-                "qType": "auto-chart"
-              },
-              "qPatches": [],
-              "qChildren": []
-            }
-          ]
-        }
-      ]
+      "qPatches": []
     }
   },
   "_gitoqlok": {
