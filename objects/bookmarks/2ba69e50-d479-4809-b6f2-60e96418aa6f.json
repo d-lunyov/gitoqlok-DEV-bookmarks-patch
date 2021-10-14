@@ -10,69 +10,70 @@
   "creationDate": "2021-10-11T11:32:02.427Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "",
-  "qData": {
-    "qBookMark": {
-      "qStateData": [
-        {
-          "qStateName": "$",
-          "qFieldItems": []
+  "_qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": ""
+      }
+    ],
+    "qUtcModifyTime": 44480.727314814816,
+    "qVariableItems": [],
+    "qPatches": [
+      {
+        "qInfo": {
+          "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+          "qType": "sheet"
         },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_2",
-                "qType": "PRESENT"
-              },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        }
-      ],
-      "qUtcModifyTime": 44480.727314814816,
-      "qVariableItems": [],
-      "qPatches": [
-        {
-          "qInfo": {
-            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-            "qType": "sheet"
-          },
-          "qPatches": [],
-          "qChildren": [
-            {
-              "qInfo": {
-                "qId": "mAguB",
-                "qType": "auto-chart"
-              },
-              "qPatches": [
-                {
-                  "qOp": "replace",
-                  "qPath": "/qUndoExclude/generated/qHyperCubeDef/qDimensions",
-                  "qValue": "[{\"qLibraryId\":\"ZchA\",\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[],\"qFieldLabels\":[],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"PwMAJ\",\"othersLabel\":\"Другие\",\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"urlPosition\":\"dimension\",\"urlLabel\":\"\",\"linkUrl\":\"\",\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\"}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"othersLabel\":\"Другие\"}]"
-                }
-              ],
-              "qChildren": []
-            }
-          ]
-        }
-      ]
-    }
+        "qPatches": [],
+        "qChildren": [
+          {
+            "qInfo": {
+              "qId": "mAguB",
+              "qType": "auto-chart"
+            },
+            "qPatches": [
+              {
+                "qOp": "replace",
+                "qPath": "/qUndoExclude/generated/qHyperCubeDef/qDimensions",
+                "qValue": "[{\"qLibraryId\":\"ZchA\",\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[],\"qFieldLabels\":[],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"PwMAJ\",\"othersLabel\":\"Другие\",\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"urlPosition\":\"dimension\",\"urlLabel\":\"\",\"linkUrl\":\"\",\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\"}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"othersLabel\":\"Другие\"}]"
+              }
+            ],
+            "qChildren": []
+          }
+        ]
+      }
+    ]
   }
 }

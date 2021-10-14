@@ -4,85 +4,86 @@
     "qType": "bookmark"
   },
   "qMetaDef": {},
-  "qData": {
-    "qBookMark": {
-      "qStateData": [
-        {
-          "qStateName": "$",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_1",
-                "qType": "PRESENT"
+  "_qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_2",
-                "qType": "PRESENT"
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_1",
-                "qType": "PRESENT"
-              },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        }
-      ],
-      "qUtcModifyTime": 44481.661157407405,
-      "qVariableItems": [],
-      "qPatches": []
-    }
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": ""
+      }
+    ],
+    "qUtcModifyTime": 44481.661157407405,
+    "qVariableItems": [],
+    "qPatches": []
   }
 }
