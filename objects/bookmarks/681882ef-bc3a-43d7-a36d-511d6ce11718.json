@@ -1,15 +1,9 @@
 {
   "qInfo": {
-    "qId": "9b43a6e2-f226-4ab0-8da4-93e2bf16e56b",
+    "qId": "681882ef-bc3a-43d7-a36d-511d6ce11718",
     "qType": "bookmark"
   },
-  "qMetaDef": {
-    "title": "single_field_diff_states",
-    "description": ""
-  },
-  "creationDate": "2021-10-12T09:54:52.637Z",
-  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-  "selectionFields": "Поле_1",
+  "qMetaDef": {},
   "qData": {
     "qBookMark": {
       "qStateData": [
@@ -86,7 +80,7 @@
           ]
         }
       ],
-      "qUtcModifyTime": 44481.65981481481,
+      "qUtcModifyTime": 44481.661157407405,
       "qVariableItems": [],
       "qPatches": []
     }

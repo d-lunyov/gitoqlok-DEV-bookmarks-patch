@@ -1,13 +1,13 @@
 {
   "qInfo": {
-    "qId": "9b43a6e2-f226-4ab0-8da4-93e2bf16e56b",
+    "qId": "5c1e9b74-0d7e-4450-aa32-e0743951b36d",
     "qType": "bookmark"
   },
   "qMetaDef": {
-    "title": "single_field_diff_states",
+    "title": "manyStates",
     "description": ""
   },
-  "creationDate": "2021-10-12T09:54:52.637Z",
+  "creationDate": "2021-10-12T10:07:18.848Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1",
   "qData": {
@@ -82,11 +82,30 @@
               },
               "qValues": [],
               "qExcludedValues": []
+            },
+            {
+              "qDef": {
+                "qName": "Non-numeric",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
             }
           ]
         }
       ],
-      "qUtcModifyTime": 44481.65981481481,
+      "qUtcModifyTime": 44481.66844907407,
       "qVariableItems": [],
       "qPatches": []
     }

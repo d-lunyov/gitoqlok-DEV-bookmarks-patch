@@ -1,0 +1,10 @@
+{
+  "qName": "Non-numeric",
+  "qTags": [
+    "$text",
+    "$ascii"
+  ],
+  "qSrcTables": [
+    "Таблица-1"
+  ]
+}

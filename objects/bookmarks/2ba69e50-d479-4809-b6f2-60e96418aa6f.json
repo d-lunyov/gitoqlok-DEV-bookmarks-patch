@@ -74,22 +74,5 @@
         }
       ]
     }
-  },
-  "_gitoqlok": {
-    "fieldValues": [
-      {
-        "fieldName": "Поле_2",
-        "fieldValues": [
-          {
-            "qIsNumeric": true,
-            "qNumber": 4
-          },
-          {
-            "qIsNumeric": true,
-            "qNumber": 5
-          }
-        ]
-      }
-    ]
   }
 }
