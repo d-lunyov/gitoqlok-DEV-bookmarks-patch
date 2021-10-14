@@ -104,7 +104,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": "<Поле_1={'8','9','10'},[Non-numeric]={'\"value2\"','\"{}<>>< value\"','\"{}<>>< value2\"','`value1`','``value2'}>"
+        "_setExpression": "<Поле_1={'8','9'},[Non-numeric]={'\"value2\"','\"{}<>>< value\"','\"{}<>>< value2\"','`value1`','``value2'}>"
       }
     ],
     "qUtcModifyTime": 44481.66844907407,

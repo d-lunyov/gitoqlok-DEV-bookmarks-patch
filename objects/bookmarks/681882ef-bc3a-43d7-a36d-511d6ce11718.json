@@ -79,7 +79,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": "<Поле_1={'8','9','10'}>"
+        "_setExpression": "<Поле_1={'8','9'}>"
       }
     ],
     "qUtcModifyTime": 44481.661157407405,

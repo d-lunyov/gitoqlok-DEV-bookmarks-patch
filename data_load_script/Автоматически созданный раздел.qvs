@@ -24,6 +24,9 @@ Set dataManagerTables = ;
 Unqualify *;
 
 [Таблица]:
+LOAD
+	'-' AS [Extra_5b310203-5a14-aba5-9a11-a4f1c205],
+	If (Match([Поле_1], '10'), '"hel' & chr(39) & '' & chr(39) & 'l``o"q"q"', [Поле_1]) AS [Поле_1];
 LOAD * INLINE 
 [
 Поле_1
@@ -38,6 +41,7 @@ LOAD * INLINE
 9
 10
 ](delimiter is ',');
+DROP FIELD [Extra_5b310203-5a14-aba5-9a11-a4f1c205];
 
 [Таблица2]:
 LOAD * INLINE 
