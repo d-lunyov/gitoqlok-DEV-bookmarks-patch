@@ -29,7 +29,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": ""
+        "_setExpression": "<Поле_1={'4','5'}>"
       },
       {
         "qStateName": "jjj",
@@ -54,7 +54,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": ""
+        "_setExpression": "<Поле_2={'2'}>"
       },
       {
         "qStateName": "new",
@@ -79,7 +79,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": ""
+        "_setExpression": "<Поле_1={'8','9','10'}>"
       }
     ],
     "qUtcModifyTime": 44481.661157407405,

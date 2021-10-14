@@ -153,7 +153,7 @@
             "qExcludedValues": []
           }
         ],
-        "_setExpression": ""
+        "_setExpression": "<Поле_1={'1','2','3'},Поле_2={'3','4','5'}>"
       },
       {
         "qStateName": "jjj",
