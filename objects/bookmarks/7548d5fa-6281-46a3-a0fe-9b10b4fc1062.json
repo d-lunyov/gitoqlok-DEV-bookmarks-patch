@@ -10,83 +10,84 @@
   "creationDate": "2021-10-12T09:40:56.164Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1",
-  "qData": {
-    "qBookMark": {
-      "qStateData": [
-        {
-          "qStateName": "$",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_1",
-                "qType": "PRESENT"
+  "_qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": "<Поле_1={'4','5'}>"
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": "<Поле_2={'2'}>"
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [],
+        "_setExpression": ""
+      }
+    ],
+    "qUtcModifyTime": 44481.65012731482,
+    "qVariableItems": [],
+    "qPatches": [
+      {
+        "qInfo": {
+          "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+          "qType": "sheet"
         },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Поле_2",
-                "qType": "PRESENT"
-              },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": []
-        }
-      ],
-      "qUtcModifyTime": 44481.65012731482,
-      "qVariableItems": [],
-      "qPatches": [
-        {
-          "qInfo": {
-            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-            "qType": "sheet"
-          },
-          "qPatches": [],
-          "qChildren": [
-            {
-              "qInfo": {
-                "qId": "VUEeq",
-                "qType": "auto-chart"
-              },
-              "qPatches": [],
-              "qChildren": []
-            }
-          ]
-        }
-      ]
-    }
+        "qPatches": [],
+        "qChildren": [
+          {
+            "qInfo": {
+              "qId": "VUEeq",
+              "qType": "auto-chart"
+            },
+            "qPatches": [],
+            "qChildren": []
+          }
+        ]
+      }
+    ]
   }
 }

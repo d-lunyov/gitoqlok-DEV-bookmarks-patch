@@ -6,25 +6,26 @@
   "qMetaDef": {
     "title": "ManuallyWithPatches2"
   },
-  "qData": {
-    "qBookMark": {
-      "qStateData": [
-        {
-          "qStateName": "$",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": []
-        }
-      ],
-      "qUtcModifyTime": 44484.76005787037,
-      "qVariableItems": [],
-      "qPatches": []
-    }
+  "_qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [],
+        "_setExpression": ""
+      }
+    ],
+    "qUtcModifyTime": 44484.76005787037,
+    "qVariableItems": [],
+    "qPatches": []
   }
 }

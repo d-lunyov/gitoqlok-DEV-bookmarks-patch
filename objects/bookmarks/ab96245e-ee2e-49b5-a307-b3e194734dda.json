@@ -10,63 +10,64 @@
   "creationDate": "2021-10-26T10:44:20.202Z",
   "sheetId": "0596fe64-517b-4312-8437-9100a989808a",
   "selectionFields": "Field_quotes",
-  "qData": {
-    "qBookMark": {
-      "qStateData": [
-        {
-          "qStateName": "$",
-          "qFieldItems": [
-            {
-              "qDef": {
-                "qName": "Field_quotes",
-                "qType": "PRESENT"
+  "_qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Field_quotes",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
               },
-              "qSelectInfo": {
-                "qRangeLo": "NaN",
-                "qRangeHi": "NaN",
-                "qNumberFormat": {
-                  "qType": "U",
-                  "qnDec": 10,
-                  "qUseThou": 0
-                },
-                "qRangeInfo": [],
-                "qContinuousRangeInfo": []
-              },
-              "qValues": [],
-              "qExcludedValues": []
-            }
-          ]
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [],
+            "qExcludedValues": []
+          }
+        ],
+        "_setExpression": "<Field_quotes={'quotes',''quotes2''','`quotes3`','`{'}''}''}>"
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [],
+        "_setExpression": ""
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [],
+        "_setExpression": ""
+      }
+    ],
+    "qUtcModifyTime": 44495.70118055555,
+    "qVariableItems": [],
+    "qPatches": [
+      {
+        "qInfo": {
+          "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+          "qType": "sheet"
         },
-        {
-          "qStateName": "jjj",
-          "qFieldItems": []
-        },
-        {
-          "qStateName": "new",
-          "qFieldItems": []
-        }
-      ],
-      "qUtcModifyTime": 44495.70118055555,
-      "qVariableItems": [],
-      "qPatches": [
-        {
-          "qInfo": {
-            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-            "qType": "sheet"
-          },
-          "qPatches": [],
-          "qChildren": [
-            {
-              "qInfo": {
-                "qId": "gPrmJTN",
-                "qType": "table"
-              },
-              "qPatches": [],
-              "qChildren": []
-            }
-          ]
-        }
-      ]
-    }
+        "qPatches": [],
+        "qChildren": [
+          {
+            "qInfo": {
+              "qId": "gPrmJTN",
+              "qType": "table"
+            },
+            "qPatches": [],
+            "qChildren": []
+          }
+        ]
+      }
+    ]
   }
 }
