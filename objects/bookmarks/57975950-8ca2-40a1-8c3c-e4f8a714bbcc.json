@@ -1,15 +1,14 @@
 {
   "qInfo": {
-    "qId": "9b43a6e2-f226-4ab0-8da4-93e2bf16e56b",
+    "qId": "57975950-8ca2-40a1-8c3c-e4f8a714bbcc",
     "qType": "bookmark"
   },
   "qMetaDef": {
-    "title": "single_field_diff_states",
+    "title": "Закладка6",
     "description": ""
   },
-  "creationDate": "2021-10-12T09:54:52.637Z",
-  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
-  "selectionFields": "Поле_1",
+  "creationDate": "2021-10-15T12:50:09.159Z",
+  "selectionFields": "",
   "qData": {
     "qBookMark": {
       "qStateData": [
@@ -86,9 +85,33 @@
           ]
         }
       ],
-      "qUtcModifyTime": 44481.65981481481,
+      "qUtcModifyTime": 44484.79251157407,
       "qVariableItems": [],
-      "qPatches": []
+      "qPatches": [
+        {
+          "qInfo": {
+            "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+            "qType": "sheet"
+          },
+          "qPatches": [],
+          "qChildren": [
+            {
+              "qInfo": {
+                "qId": "VUEeq",
+                "qType": "auto-chart"
+              },
+              "qPatches": [
+                {
+                  "qOp": "replace",
+                  "qPath": "/qUndoExclude/generated/qHyperCubeDef/qDimensions",
+                  "qValue": "[{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"Поле_1\"],\"qFieldLabels\":[],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qReverseSort\":true,\"qActiveField\":0,\"autoSort\":true,\"cId\":\"Fju\",\"othersLabel\":\"Другие\",\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"urlPosition\":\"dimension\",\"urlLabel\":\"\",\"linkUrl\":\"\",\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\"}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"othersLabel\":\"Другие\"}]"
+                }
+              ],
+              "qChildren": []
+            }
+          ]
+        }
+      ]
     }
   }
 }

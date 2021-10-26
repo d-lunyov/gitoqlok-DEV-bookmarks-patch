@@ -60,8 +60,8 @@
         }
       },
       {
-        "name": "btdtCw",
-        "type": "auto-chart",
+        "name": "gPrmJTN",
+        "type": "table",
         "col": 12,
         "row": 6,
         "colspan": 12,
@@ -232,8 +232,8 @@
                     "qReverseSort": true,
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "aLgXWt",
-                    "othersLabel": "Другие2",
+                    "cId": "Fju",
+                    "othersLabel": "Другие",
                     "textAlign": {
                       "auto": true,
                       "align": "left"
@@ -246,8 +246,7 @@
                       "imageSetting": "label",
                       "imageLabel": "",
                       "imageUrl": ""
-                    },
-                    "qSortIndicator": "A"
+                    }
                   },
                   "qOtherTotalSpec": {
                     "qOtherMode": "OTHER_OFF",
@@ -273,7 +272,7 @@
                     "qCond": {},
                     "qMsg": {}
                   },
-                  "othersLabel": "Другие2"
+                  "othersLabel": "Другие"
                 }
               ],
               "qMeasures": [],
@@ -378,7 +377,7 @@
           "qType": "auto-chart"
         },
         "qMetaDef": {},
-        "qStateName": "jjj",
+        "qStateName": "new",
         "qHyperCubeDef": {
           "qDimensions": [
             {
@@ -573,7 +572,7 @@
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
-            "qStateName": "jjj",
+            "qStateName": "new",
             "components": [],
             "totals": {
               "show": true,
@@ -878,41 +877,66 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "btdtCw",
-          "qType": "auto-chart"
+          "qId": "gPrmJTN",
+          "qType": "table"
         },
         "qMetaDef": {},
-        "qStateName": "$",
         "qHyperCubeDef": {
           "qDimensions": [
             {
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [
-                  "Non-numeric"
+                  "=[{<Поле_2={'4','5'}>}]"
                 ],
-                "qFieldLabels": [],
+                "qFieldLabels": [
+                  ""
+                ],
                 "qSortCriterias": [
                   {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
                     "qSortByLoadOrder": 1,
                     "qExpression": {}
                   }
                 ],
                 "qNumberPresentations": [],
-                "qActiveField": 0
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "whtYjk",
+                "othersLabel": "Другие",
+                "textAlign": {
+                  "auto": true,
+                  "align": "left"
+                },
+                "representation": {
+                  "type": "text",
+                  "urlPosition": "dimension",
+                  "urlLabel": "",
+                  "linkUrl": "",
+                  "imageSetting": "label",
+                  "imageLabel": "",
+                  "imageUrl": ""
+                }
               },
               "qOtherTotalSpec": {
                 "qOtherMode": "OTHER_OFF",
-                "qOtherCounted": {},
-                "qOtherLimit": {},
-                "qOtherLimitMode": "OTHER_GT_LIMIT",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
                 "qForceBadValueKeeping": true,
                 "qApplyEvenWhenPossiblyWrongResult": true,
                 "qOtherSortMode": "OTHER_SORT_DESCENDING",
                 "qTotalMode": "TOTAL_OFF",
                 "qReferencedExpression": {}
               },
-              "qOtherLabel": {},
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
               "qTotalLabel": {},
               "qCalcCond": {},
               "qAttributeExpressions": [],
@@ -940,9 +964,17 @@
             "qCond": {},
             "qMsg": {}
           },
-          "qColumnOrder": [],
+          "qColumnOrder": [
+            0
+          ],
           "qExpansionState": [],
           "qDynamicScript": [],
+          "columnOrder": [
+            0
+          ],
+          "columnWidths": [
+            -1
+          ],
           "qLayoutExclude": {
             "qHyperCubeDef": {
               "qDimensions": [],
@@ -966,168 +998,31 @@
             }
           }
         },
+        "search": {
+          "sorting": "auto"
+        },
         "showTitles": true,
         "title": "",
         "subtitle": "",
         "footnote": "",
         "disableNavMenu": false,
         "showDetails": false,
-        "visualization": "auto-chart",
-        "qUndoExclude": {
-          "hashCode": -361827397,
-          "generated": {
-            "qHyperCubeDef": {
-              "qDimensions": [
-                {
-                  "qDef": {
-                    "qGrouping": "N",
-                    "qFieldDefs": [
-                      "Non-numeric"
-                    ],
-                    "qFieldLabels": [],
-                    "qSortCriterias": [
-                      {
-                        "qSortByNumeric": 1,
-                        "qSortByAscii": 1,
-                        "qSortByLoadOrder": 1,
-                        "qExpression": {}
-                      }
-                    ],
-                    "qNumberPresentations": [],
-                    "qActiveField": 0,
-                    "autoSort": true,
-                    "cId": "xLXzzHE",
-                    "othersLabel": "Другие",
-                    "textAlign": {
-                      "auto": true,
-                      "align": "left"
-                    },
-                    "representation": {
-                      "type": "text",
-                      "urlPosition": "dimension",
-                      "urlLabel": "",
-                      "linkUrl": "",
-                      "imageSetting": "label",
-                      "imageLabel": "",
-                      "imageUrl": ""
-                    }
-                  },
-                  "qOtherTotalSpec": {
-                    "qOtherMode": "OTHER_OFF",
-                    "qOtherCounted": {
-                      "qv": "10"
-                    },
-                    "qOtherLimit": {
-                      "qv": "0"
-                    },
-                    "qOtherLimitMode": "OTHER_GT_LIMIT",
-                    "qForceBadValueKeeping": true,
-                    "qApplyEvenWhenPossiblyWrongResult": true,
-                    "qOtherSortMode": "OTHER_SORT_DESCENDING",
-                    "qTotalMode": "TOTAL_OFF",
-                    "qReferencedExpression": {}
-                  },
-                  "qOtherLabel": {},
-                  "qTotalLabel": {},
-                  "qCalcCond": {},
-                  "qAttributeExpressions": [],
-                  "qAttributeDimensions": [],
-                  "qCalcCondition": {
-                    "qCond": {},
-                    "qMsg": {}
-                  },
-                  "othersLabel": "Другие"
-                }
-              ],
-              "qMeasures": [],
-              "qInterColumnSortOrder": [
-                0
-              ],
-              "qSuppressMissing": true,
-              "qInitialDataFetch": [
-                {
-                  "qLeft": 0,
-                  "qTop": 0,
-                  "qWidth": 0,
-                  "qHeight": 0
-                }
-              ],
-              "qReductionMode": "N",
-              "qMode": "S",
-              "qPseudoDimPos": -1,
-              "qNoOfLeftDims": -1,
-              "qMaxStackedCells": 5000,
-              "qCalcCond": {},
-              "qTitle": {},
-              "qCalcCondition": {
-                "qCond": {},
-                "qMsg": {}
-              },
-              "qColumnOrder": [
-                0
-              ],
-              "qExpansionState": [],
-              "qDynamicScript": [],
-              "columnOrder": [
-                0
-              ],
-              "columnWidths": [
-                -1
-              ]
-            },
-            "search": {
-              "sorting": "auto"
-            },
-            "showTitles": true,
-            "title": "",
-            "subtitle": "",
-            "footnote": "",
-            "disableNavMenu": false,
-            "showDetails": false,
-            "qStateName": "$",
-            "components": [],
-            "totals": {
-              "show": true,
-              "position": "noTotals",
-              "label": "Итоги"
-            },
-            "scrolling": {
-              "horizontal": true,
-              "keepFirstColumnInView": false,
-              "keepFirstColumnInViewTouch": false
-            },
-            "multiline": {
-              "wrapTextInHeaders": true,
-              "wrapTextInCells": true
-            },
-            "qInfo": {
-              "qType": "table"
-            },
-            "visualization": "table",
-            "isRecommended": true,
-            "qLayoutExclude": {
-              "disabled": {},
-              "quarantine": {
-                "conditionalShowHide": {
-                  "dimensions": {}
-                }
-              }
-            },
-            "recommendation": {
-              "analysis": {
-                "analysis": "list",
-                "dims": [
-                  {
-                    "field": "Non-numeric",
-                    "expr": "Non-numeric",
-                    "cType": "eField"
-                  }
-                ],
-                "msrs": []
-              }
-            }
-          }
-        }
+        "components": [],
+        "totals": {
+          "show": true,
+          "position": "noTotals",
+          "label": "Итоги"
+        },
+        "scrolling": {
+          "horizontal": true,
+          "keepFirstColumnInView": false,
+          "keepFirstColumnInViewTouch": false
+        },
+        "multiline": {
+          "wrapTextInHeaders": true,
+          "wrapTextInCells": true
+        },
+        "visualization": "table"
       },
       "qChildren": []
     }

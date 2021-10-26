@@ -1,13 +1,13 @@
 {
   "qInfo": {
-    "qId": "79cd0fe1-4b4e-452d-9b28-970b6cdd0026",
+    "qId": "54a8ec04-ccdb-4e1e-bad6-efe068e0f997",
     "qType": "bookmark"
   },
   "qMetaDef": {
-    "title": "Quotes_Test",
+    "title": "Закладка5",
     "description": ""
   },
-  "creationDate": "2021-10-14T13:21:34.301Z",
+  "creationDate": "2021-10-15T13:03:26.223Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1",
   "qData": {
@@ -46,7 +46,7 @@
           "qFieldItems": []
         }
       ],
-      "qUtcModifyTime": 44483.803298611114,
+      "qUtcModifyTime": 44484.790659722225,
       "qVariableItems": [],
       "qPatches": []
     }

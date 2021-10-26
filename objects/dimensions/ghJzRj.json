@@ -6,14 +6,15 @@
   "qDim": {
     "qGrouping": "N",
     "qFieldDefs": [
-      "=1"
+      "={1,2}"
     ],
     "qFieldLabels": [
       "1"
     ],
     "title": "1",
     "coloring": {
-      "changeHash": "0.27272830140679116"
+      "changeHash": "0.832832545335406",
+      "colorMapRef": "ghJzRj"
     }
   },
   "qMetaDef": {

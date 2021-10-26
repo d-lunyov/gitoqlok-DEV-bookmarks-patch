@@ -6,105 +6,104 @@
   "qMetaDef": {
     "title": "manually2"
   },
-  "_qBookMark": {
-    "qStateData": [
-      {
-        "qStateName": "$",
-        "qFieldItems": [
-          {
-            "qDef": {
-              "qName": "Поле_1",
-              "qType": "PRESENT"
-            },
-            "qSelectInfo": {
-              "qRangeLo": "NaN",
-              "qRangeHi": "NaN",
-              "qNumberFormat": {
-                "qType": "U",
-                "qnDec": 10,
-                "qUseThou": 0
+  "qData": {
+    "qBookMark": {
+      "qStateData": [
+        {
+          "qStateName": "$",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_1",
+                "qType": "PRESENT"
               },
-              "qRangeInfo": [],
-              "qContinuousRangeInfo": []
-            },
-            "qValues": [],
-            "qExcludedValues": []
-          }
-        ],
-        "_setExpression": "<Поле_1={'4','5'}>"
-      },
-      {
-        "qStateName": "jjj",
-        "qFieldItems": [
-          {
-            "qDef": {
-              "qName": "Поле_2",
-              "qType": "PRESENT"
-            },
-            "qSelectInfo": {
-              "qRangeLo": "NaN",
-              "qRangeHi": "NaN",
-              "qNumberFormat": {
-                "qType": "U",
-                "qnDec": 10,
-                "qUseThou": 0
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
               },
-              "qRangeInfo": [],
-              "qContinuousRangeInfo": []
-            },
-            "qValues": [],
-            "qExcludedValues": []
-          }
-        ],
-        "_setExpression": "<Поле_2={'2'}>"
-      },
-      {
-        "qStateName": "new",
-        "qFieldItems": [
-          {
-            "qDef": {
-              "qName": "Поле_1",
-              "qType": "PRESENT"
-            },
-            "qSelectInfo": {
-              "qRangeLo": "NaN",
-              "qRangeHi": "NaN",
-              "qNumberFormat": {
-                "qType": "U",
-                "qnDec": 10,
-                "qUseThou": 0
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        },
+        {
+          "qStateName": "jjj",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_2",
+                "qType": "PRESENT"
               },
-              "qRangeInfo": [],
-              "qContinuousRangeInfo": []
-            },
-            "qValues": [],
-            "qExcludedValues": []
-          },
-          {
-            "qDef": {
-              "qName": "Non-numeric",
-              "qType": "PRESENT"
-            },
-            "qSelectInfo": {
-              "qRangeLo": "NaN",
-              "qRangeHi": "NaN",
-              "qNumberFormat": {
-                "qType": "U",
-                "qnDec": 10,
-                "qUseThou": 0
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
               },
-              "qRangeInfo": [],
-              "qContinuousRangeInfo": []
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        },
+        {
+          "qStateName": "new",
+          "qFieldItems": [
+            {
+              "qDef": {
+                "qName": "Поле_1",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
             },
-            "qValues": [],
-            "qExcludedValues": []
-          }
-        ],
-        "_setExpression": "<Поле_1={'8','9'},[Non-numeric]={'\"value2\"','\"{}<>>< value\"','\"{}<>>< value2\"','`value1`','``value2'}>"
-      }
-    ],
-    "qUtcModifyTime": 44481.68267361111,
-    "qVariableItems": [],
-    "qPatches": []
+            {
+              "qDef": {
+                "qName": "Field_quotes",
+                "qType": "PRESENT"
+              },
+              "qSelectInfo": {
+                "qRangeLo": "NaN",
+                "qRangeHi": "NaN",
+                "qNumberFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qRangeInfo": [],
+                "qContinuousRangeInfo": []
+              },
+              "qValues": [],
+              "qExcludedValues": []
+            }
+          ]
+        }
+      ],
+      "qUtcModifyTime": 44481.68267361111,
+      "qVariableItems": [],
+      "qPatches": []
+    }
   }
 }
