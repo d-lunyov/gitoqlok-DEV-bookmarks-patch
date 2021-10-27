@@ -60,7 +60,7 @@
         }
       },
       {
-        "name": "jmvkf",
+        "name": "rvGSeg",
         "type": "auto-chart",
         "col": 12,
         "row": 6,
@@ -877,7 +877,7 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "jmvkf",
+          "qId": "rvGSeg",
           "qType": "auto-chart"
         },
         "qMetaDef": {},
@@ -887,7 +887,7 @@
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [
-                  "Numbers"
+                  "Numbers2"
                 ],
                 "qFieldLabels": [],
                 "qSortCriterias": [
@@ -950,7 +950,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": -338396901,
+          "hashCode": -1368146699,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -958,7 +958,7 @@
                   "qDef": {
                     "qGrouping": "N",
                     "qFieldDefs": [
-                      "Numbers"
+                      "Numbers2"
                     ],
                     "qFieldLabels": [],
                     "qSortCriterias": [
@@ -972,7 +972,7 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "qDtFXJ",
+                    "cId": "YsjyqfA",
                     "othersLabel": "Others",
                     "textAlign": {
                       "auto": true,
@@ -1094,8 +1094,8 @@
                 "analysis": "list",
                 "dims": [
                   {
-                    "field": "Numbers",
-                    "expr": "Numbers",
+                    "field": "Numbers2",
+                    "expr": "Numbers2",
                     "cType": "eField"
                   }
                 ],
