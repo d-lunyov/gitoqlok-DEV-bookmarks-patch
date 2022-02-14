@@ -10,7 +10,7 @@
   "creationDate": "2021-10-14T13:22:51.781Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1",
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
@@ -31,24 +31,33 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 2
+              },
+              {
+                "qText": "\"hel''l``o\"q\"q\"",
+                "qNumber": "NaN"
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Поле_1={'1','2','\"hel''l``o\"q\"q\"'}>"
+        ]
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44483.804189814815,
     "qVariableItems": [],
     "qPatches": []
   }

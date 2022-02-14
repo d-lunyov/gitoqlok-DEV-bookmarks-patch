@@ -10,7 +10,7 @@
   "creationDate": "2021-10-27T17:12:19.152Z",
   "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
   "selectionFields": "Поле_1, Numbers",
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
@@ -31,7 +31,16 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              },
+              {
+                "qText": "\"hel''l``o\"q\"q\"",
+                "qNumber": "NaN"
+              }
+            ],
             "qExcludedValues": []
           },
           {
@@ -50,24 +59,49 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1.5
+              },
+              {
+                "qText": "1212.1212.1212",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "1212,12,1212,12",
+                "qNumber": "NaN"
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1212
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1111
+              },
+              {
+                "qText": "12.20.2020",
+                "qNumber": "NaN"
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Поле_1={'1','\"hel''l``o\"q\"q\"'},Numbers={'1','1.5','1212.1212.1212','1212,12,1212,12','12 12','1 1 1  1','12.20.2020'}>"
+        ]
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44496.966412037036,
     "qVariableItems": [],
     "qPatches": []
   }

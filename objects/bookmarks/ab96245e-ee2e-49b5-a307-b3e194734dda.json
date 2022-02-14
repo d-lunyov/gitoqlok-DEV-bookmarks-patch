@@ -10,7 +10,7 @@
   "creationDate": "2021-10-26T10:44:20.202Z",
   "sheetId": "0596fe64-517b-4312-8437-9100a989808a",
   "selectionFields": "Field_quotes",
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
@@ -31,24 +31,37 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qText": "quotes",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "'quotes2''",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "`quotes3`",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "`{'}''}'",
+                "qNumber": "NaN"
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Field_quotes={'quotes',''quotes2''','`quotes3`','`{'}''}''}>"
+        ]
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44495.70118055555,
     "qVariableItems": [],
     "qPatches": [
       {

@@ -9,25 +9,21 @@
   },
   "creationDate": "2021-10-15T12:50:09.159Z",
   "selectionFields": "",
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44484.789664351854,
     "qVariableItems": [],
     "qPatches": [
       {

@@ -109,7 +109,7 @@
       }
     ]
   },
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
@@ -130,7 +130,20 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 2
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 3
+              }
+            ],
             "qExcludedValues": []
           },
           {
@@ -149,24 +162,33 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 3
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 4
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 5
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Поле_1={'1','2','3'},Поле_2={'3','4','5'}>"
+        ]
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44469.99561342593,
     "qVariableItems": [],
     "qPatches": []
   }

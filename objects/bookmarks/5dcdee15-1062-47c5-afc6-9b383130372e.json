@@ -8,17 +8,15 @@
     "description": "Temporary gitoqlok bookmark"
   },
   "selectionFields": "",
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
@@ -39,14 +37,17 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 6
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Поле_2={'6'}>"
+        ]
       }
     ],
-    "qUtcModifyTime": 44496.91127314815,
     "qVariableItems": [],
     "qPatches": [
       {

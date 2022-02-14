@@ -6,7 +6,7 @@
   "qMetaDef": {
     "title": "manually2"
   },
-  "_qBookMark": {
+  "qBookMark": {
     "qStateData": [
       {
         "qStateName": "$",
@@ -27,24 +27,41 @@
               "qRangeInfo": [],
               "qContinuousRangeInfo": []
             },
-            "qValues": [],
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1.5
+              },
+              {
+                "qText": "1212.1212.1212",
+                "qNumber": "NaN"
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1212
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 1111
+              }
+            ],
             "qExcludedValues": []
           }
-        ],
-        "_setExpression": "<Numbers={'1','1.5','1212.1212.1212','12 12','1 1 1  1'}>"
+        ]
       },
       {
         "qStateName": "jjj",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       },
       {
         "qStateName": "new",
-        "qFieldItems": [],
-        "_setExpression": ""
+        "qFieldItems": []
       }
     ],
-    "qUtcModifyTime": 44496.97149305556,
     "qVariableItems": [],
     "qPatches": []
   }
