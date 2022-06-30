@@ -9,16 +9,16 @@
       "=2"
     ],
     "qFieldLabels": [
-      "1"
+      "1_renamed"
     ],
-    "title": "1",
+    "title": "1_renamed",
     "coloring": {
-      "changeHash": "0.7130342419043327",
+      "changeHash": "0.3031384825939698",
       "colorMapRef": "ghJzRj"
     }
   },
   "qMetaDef": {
-    "title": "1",
+    "title": "1_renamed",
     "description": "Change field to 2",
     "tags": []
   }
