@@ -6,20 +6,20 @@
   "qDim": {
     "qGrouping": "N",
     "qFieldDefs": [
-      "=1"
+      "=2"
     ],
     "qFieldLabels": [
       "1"
     ],
     "title": "1",
     "coloring": {
-      "changeHash": "0.6871216212394604",
+      "changeHash": "0.7130342419043327",
       "colorMapRef": "ghJzRj"
     }
   },
   "qMetaDef": {
     "title": "1",
-    "description": "",
+    "description": "Change field to 2",
     "tags": []
   }
 }

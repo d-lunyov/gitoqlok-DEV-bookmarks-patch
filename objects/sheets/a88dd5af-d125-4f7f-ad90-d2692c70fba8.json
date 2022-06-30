@@ -728,7 +728,7 @@
         "showDetailsExpression": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": 1915084885,
+          "hashCode": -1686780714,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -749,7 +749,7 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "PyPUYn",
+                    "cId": "TmJtu",
                     "othersLabel": "Others",
                     "textAlign": {
                       "auto": true,
