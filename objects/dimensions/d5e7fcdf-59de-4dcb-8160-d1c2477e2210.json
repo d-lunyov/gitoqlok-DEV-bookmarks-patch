@@ -1,0 +1,22 @@
+{
+  "qInfo": {
+    "qId": "d5e7fcdf-59de-4dcb-8160-d1c2477e2210",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Month"
+    ],
+    "qFieldLabels": [
+      "Month"
+    ],
+    "title": "Month"
+  },
+  "qMetaDef": {
+    "title": "Month",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}
