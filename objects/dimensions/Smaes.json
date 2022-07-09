@@ -1,25 +1,25 @@
 {
   "qInfo": {
-    "qId": "qAaVS",
+    "qId": "Smaes",
     "qType": "dimension"
   },
   "qDim": {
     "qGrouping": "N",
     "qFieldDefs": [
-      "=1,2"
+      "Год"
     ],
     "qFieldLabels": [
-      "f12323"
+      "Год"
     ],
-    "title": "f12323",
+    "title": "Год",
     "coloring": {
-      "changeHash": "0.61769804930799",
-      "colorMapRef": "qAaVS"
+      "changeHash": "0.5893486216753734"
     }
   },
   "qMetaDef": {
-    "title": "f12323",
+    "title": "Год",
     "description": "",
-    "tags": []
+    "tags": [],
+    "isBlueprintItem": true
   }
 }

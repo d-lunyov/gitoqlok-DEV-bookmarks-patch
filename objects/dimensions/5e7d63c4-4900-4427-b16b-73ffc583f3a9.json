@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "5e7d63c4-4900-4427-b16b-73ffc583f3a9",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Квартал"
+    ],
+    "qFieldLabels": [
+      "Квартал"
+    ],
+    "title": "Квартал",
+    "coloring": {
+      "colorMapRef": "Smaes",
+      "changeHash": "0.019199047523988932"
+    }
+  },
+  "qMetaDef": {
+    "title": "Квартал",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

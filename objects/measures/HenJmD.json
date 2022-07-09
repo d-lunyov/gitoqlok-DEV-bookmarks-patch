@@ -1,15 +1,15 @@
 {
   "qInfo": {
-    "qId": "LwpJqj",
+    "qId": "HenJmD",
     "qType": "measure"
   },
   "qMeasure": {
-    "qLabel": "measure1",
-    "qDef": "12",
+    "qLabel": "new measure",
+    "qDef": "14",
     "qGrouping": "N",
     "qExpressions": [],
     "qActiveExpression": 0,
-    "qLabelExpression": "1",
+    "qLabelExpression": "123",
     "qNumFormat": {
       "qType": "U",
       "qnDec": 10,
@@ -18,7 +18,7 @@
     "coloring": {}
   },
   "qMetaDef": {
-    "title": "measure1",
+    "title": "new measure",
     "description": "",
     "tags": []
   }

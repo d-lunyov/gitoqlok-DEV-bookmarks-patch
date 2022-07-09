@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "9c59e40f-01a0-43c0-bdcb-929d1ec3ef11",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Неделя"
+    ],
+    "qFieldLabels": [
+      "Неделя"
+    ],
+    "title": "Неделя",
+    "coloring": {
+      "colorMapRef": "Smaes",
+      "changeHash": "0.9719008447159683"
+    }
+  },
+  "qMetaDef": {
+    "title": "Неделя",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}
