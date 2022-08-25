@@ -1,0 +1,29 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "17d1909d-89f3-4174-a45a-f1b27a4b6e84",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Added sheet 2",
+      "description": ""
+    },
+    "rank": 4,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": []
+}

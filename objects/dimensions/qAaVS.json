@@ -9,16 +9,15 @@
       "=1,2"
     ],
     "qFieldLabels": [
-      "f12323"
+      "f12"
     ],
-    "title": "f12323",
+    "title": "f12",
     "coloring": {
-      "changeHash": "0.61769804930799",
-      "colorMapRef": "qAaVS"
+      "changeHash": "0.31873219736474345"
     }
   },
   "qMetaDef": {
-    "title": "f12323",
+    "title": "f12",
     "description": "",
     "tags": []
   }
