@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "RYtP",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Changes",
+    "qDef": "\r\nPick(Balance_calculation,   \n    //Default calcuation\n     Num(Sum(AmountLC),ONLY(Balance_RowNumFormatCode)),\n    //Format code has to be set on each row to be able to handle blank rows\n     ' ',\n    //Cellvalue in Excel = 3 (Calcuation = 3 in application) Margin calculation with 1 calculation input \n     Num(Sum(AmountLC)/Sum(IF(Balance_rowNumber<=Balance_CalculationInput1,AmountLC,0)),ONLY(Balance_RowNumFormatCode))\n\t//This is the generic solution for minimum maintenance and expression complexity. \n\t//For maximum performance in some cases it may be more efficient to use multiple specific expressions with SET-analysis rather than the if-statement below\n     )\n",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Changes",
+    "description": "Balance sheet changes in the selected time period",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

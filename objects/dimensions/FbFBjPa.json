@@ -1,0 +1,28 @@
+{
+  "qInfo": {
+    "qId": "FbFBjPa",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Balance_reportRow"
+    ],
+    "qFieldLabels": [
+      "Balance Report Row"
+    ],
+    "title": "Balance Report Row",
+    "coloring": {
+      "changeHash": "0.6697463205720104"
+    }
+  },
+  "qMetaDef": {
+    "title": "Balance Report Row",
+    "description": "The report row for the balance sheet.",
+    "tags": [
+      "cl-fr-alternativerow",
+      "cl-fr-alternativesubrow"
+    ],
+    "isBlueprintItem": true
+  }
+}

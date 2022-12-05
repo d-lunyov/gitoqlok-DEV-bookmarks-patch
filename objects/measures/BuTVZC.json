@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "BuTVZC",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Closing Balance",
+    "qDef": "//The pick-statement decide which calculation to make as defined in the Excel-file.\r\n//NOTE! When using SET-expressions in your calculations you have to make sure all transactions included in your SETs are also included in the pick-statement by using a matching SET-expression.\nPick(Only({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}Balance_calculation),   \n    //Default calcuation\n     Num(Sum({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}AmountLC),ONLY({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}Balance_RowNumFormatCode)),\n    //Format code has to be set on each row to be able to handle blank rows\n     ' ',\n    //Cellvalue in Excel = 3 (Calcuation = 3 in application) Margin calculation with 1 calculation input \n     Num(Sum({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}AmountLC)/Sum({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}IF(Balance_rowNumber<=Balance_CalculationInput1,AmountLC,0)),ONLY({$<Year=,Month=,Date={\"<=$(=Max(Date))\"}>}Balance_RowNumFormatCode))\n\t//This is the generic solution for minimum maintenance and expression complexity. \n\t//For maximum performance in some cases it may be more efficient to use multiple specific expressions with SET-analysis rather than the if-statement below\n     )",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Closing Balance",
+    "description": "Closing balance at the end of the selected time period.",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "f593e35c-71e0-4669-a508-a361281a1345",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Company"
+    ],
+    "qFieldLabels": [
+      "Company"
+    ],
+    "title": "Company",
+    "coloring": {
+      "colorMapRef": "CHbRsT",
+      "changeHash": "0.35475535140371983"
+    }
+  },
+  "qMetaDef": {
+    "title": "Company",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

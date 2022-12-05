@@ -1,25 +1,25 @@
 {
   "qInfo": {
-    "qId": "qAaVS",
+    "qId": "CHbRsT",
     "qType": "dimension"
   },
   "qDim": {
     "qGrouping": "N",
     "qFieldDefs": [
-      "=1,2"
+      "Country"
     ],
     "qFieldLabels": [
-      "f12323"
+      "Country"
     ],
-    "title": "f12323",
+    "title": "Country",
     "coloring": {
-      "changeHash": "0.61769804930799",
-      "colorMapRef": "qAaVS"
+      "changeHash": "0.5023262300814886"
     }
   },
   "qMetaDef": {
-    "title": "f12323",
+    "title": "Country",
     "description": "",
-    "tags": []
+    "tags": [],
+    "isBlueprintItem": true
   }
 }

@@ -1,0 +1,31 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "9ec73c53-0af7-40da-9b67-73ac6f086d1d",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "New sheet",
+      "description": ""
+    },
+    "rank": 3,
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/appcontent/9ae1ceb4-fe33-4bc7-8497-7d9636805909/sheet_thumb_9ec73c53-0af7-40da-9b67-73ac6f086d1d-0.7599483749125657.png"
+      }
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": []
+}
