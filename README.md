@@ -10,7 +10,11 @@ Sheet Title | Description
 ------------ | -------------
 Sheet3|
 Sheet2|
+My new sheet|
+Мой лист|
+New sheet|
 Sheet1|
+Balance Sheet Examples|
 
 
 
@@ -22,3 +26,4 @@ deployed3|[https://dev2.datanomix.pro/sso/sense/app/null](https://dev2.datanomix
 deployed_jsonEngine|[https://dev2.datanomix.pro/sso/sense/app/568f865d-4b58-4ce6-b356-064bdc2bef03](https://dev2.datanomix.pro/sso/sense/app/568f865d-4b58-4ce6-b356-064bdc2bef03)
 bBranch|[https://dev2.datanomix.pro/sso/sense/app/049a39fc-c331-4ec0-a2d6-e60eba2e4042](https://dev2.datanomix.pro/sso/sense/app/049a39fc-c331-4ec0-a2d6-e60eba2e4042)
 teacher-datanomix.pro|[https://dev2.datanomix.pro/sso/sense/app/667ec2fc-86aa-4776-bef2-464397d3539e](https://dev2.datanomix.pro/sso/sense/app/667ec2fc-86aa-4776-bef2-464397d3539e)
+DEV-deploytest111|[https://dev2.datanomix.pro/sso/sense/app/88951350-af97-40d2-934f-5a9d52d285ef](https://dev2.datanomix.pro/sso/sense/app/88951350-af97-40d2-934f-5a9d52d285ef)
