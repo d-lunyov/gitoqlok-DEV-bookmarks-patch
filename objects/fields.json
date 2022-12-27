@@ -7,7 +7,8 @@
     ],
     "qSrcTables": [
       "Table_quotes"
-    ]
+    ],
+    "qAlwaysOneSelected": true
   },
   {
     "qName": "Numbers",
