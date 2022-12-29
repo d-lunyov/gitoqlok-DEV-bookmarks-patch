@@ -28,3 +28,4 @@ bBranch|[https://dev2.datanomix.pro/sso/sense/app/049a39fc-c331-4ec0-a2d6-e60eba
 teacher-datanomix.pro|[https://dev2.datanomix.pro/sso/sense/app/667ec2fc-86aa-4776-bef2-464397d3539e](https://dev2.datanomix.pro/sso/sense/app/667ec2fc-86aa-4776-bef2-464397d3539e)
 DEV-deploytest111|[https://dev2.datanomix.pro/sso/sense/app/88951350-af97-40d2-934f-5a9d52d285ef](https://dev2.datanomix.pro/sso/sense/app/88951350-af97-40d2-934f-5a9d52d285ef)
 DEV-deploytest_fields|[https://dev2.datanomix.pro/sso/sense/app/bb93e23f-d3c1-420b-9f91-4d62a1502cc1](https://dev2.datanomix.pro/sso/sense/app/bb93e23f-d3c1-420b-9f91-4d62a1502cc1)
+dev-testDeployReloadData2|[https://dev2.datanomix.pro/sso/sense/app/2f285bfa-d8af-4c2e-9059-0335d57e8119](https://dev2.datanomix.pro/sso/sense/app/2f285bfa-d8af-4c2e-9059-0335d57e8119)
