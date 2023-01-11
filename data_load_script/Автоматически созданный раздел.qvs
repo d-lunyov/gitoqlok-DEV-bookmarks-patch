@@ -25,6 +25,7 @@ Unqualify *;
 
 [Таблица]:
 LOAD
+	'-' AS [Extra_66138c78-3ed3-2374-4e61-c1045956],
 	If (Match([Поле_1], '10'), '"hel' & chr(39) & '' & chr(39) & 'l``o"q"q"', [Поле_1]) AS [Поле_1];
 LOAD * INLINE 
 [
@@ -40,6 +41,7 @@ LOAD * INLINE
 9
 10
 ](delimiter is ',');
+DROP FIELD [Extra_66138c78-3ed3-2374-4e61-c1045956];
 
 [Таблица2]:
 LOAD * INLINE 
@@ -101,6 +103,7 @@ Numbers2Mapping-FROM,Numbers2Mapping-TO
 ];
 [Numbers2]:
 LOAD
+	'-' AS [Extra_dc097544-4282-85c5-a555-fc0130ff],
 	APPLYMAP( 'Numbers2Mapping', [Numbers2]) AS [Numbers2];
 LOAD * INLINE 
 [
@@ -120,3 +123,4 @@ Numbers2
 1(1)
 1=1
 ](delimiter is ';');
+DROP FIELD [Extra_dc097544-4282-85c5-a555-fc0130ff];
