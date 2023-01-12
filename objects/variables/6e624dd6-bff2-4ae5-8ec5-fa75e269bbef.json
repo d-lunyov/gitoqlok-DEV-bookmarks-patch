@@ -1,15 +1,1 @@
-{
-  "qInfo": {
-    "qId": "6e624dd6-bff2-4ae5-8ec5-fa75e269bbef",
-    "qType": "variable"
-  },
-  "qMetaDef": {},
-  "qName": "currentName",
-  "qNumberPresentation": {
-    "qType": "U",
-    "qnDec": 10,
-    "qUseThou": 0
-  },
-  "qDefinition": "Numbers2",
-  "qIsScriptCreated": true
-}
+{"qInfo":{"qId":"6e624dd6-bff2-4ae5-8ec5-fa75e269bbef","qType":"variable"},"qMetaDef":{},"qName":"currentName","qNumberPresentation":{"qType":"U","qnDec":10,"qUseThou":0},"qDefinition":"Numbers2","qIsScriptCreated":true}
