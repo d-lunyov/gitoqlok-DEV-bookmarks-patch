@@ -1,1 +1,118 @@
-{"qInfo":{"qId":"9b43a6e2-f226-4ab0-8da4-93e2bf16e56b","qType":"bookmark"},"qMetaDef":{"title":"single_field_diff_states","description":""},"creationDate":"2021-10-12T09:54:52.637Z","sheetId":"a88dd5af-d125-4f7f-ad90-d2692c70fba8","selectionFields":"Поле_1","qBookMark":{"qStateData":[{"qStateName":"$","qFieldItems":[{"qDef":{"qName":"Поле_1","qType":"PRESENT"},"qSelectInfo":{"qRangeLo":"NaN","qRangeHi":"NaN","qNumberFormat":{"qType":"U","qnDec":10,"qUseThou":0},"qRangeInfo":[],"qContinuousRangeInfo":[]},"qValues":[{"qIsNumeric":true,"qNumber":4},{"qIsNumeric":true,"qNumber":5}],"qExcludedValues":[]}]},{"qStateName":"jjj","qFieldItems":[{"qDef":{"qName":"Поле_2","qType":"PRESENT"},"qSelectInfo":{"qRangeLo":"NaN","qRangeHi":"NaN","qNumberFormat":{"qType":"U","qnDec":10,"qUseThou":0},"qRangeInfo":[],"qContinuousRangeInfo":[]},"qValues":[{"qIsNumeric":true,"qNumber":2}],"qExcludedValues":[]}]},{"qStateName":"new","qFieldItems":[{"qDef":{"qName":"Поле_1","qType":"PRESENT"},"qSelectInfo":{"qRangeLo":"NaN","qRangeHi":"NaN","qNumberFormat":{"qType":"U","qnDec":10,"qUseThou":0},"qRangeInfo":[],"qContinuousRangeInfo":[]},"qValues":[{"qIsNumeric":true,"qNumber":8},{"qIsNumeric":true,"qNumber":9},{"qIsNumeric":true,"qNumber":10}],"qExcludedValues":[]}]}],"qVariableItems":[],"qPatches":[]}}
+{
+  "qInfo": {
+    "qId": "9b43a6e2-f226-4ab0-8da4-93e2bf16e56b",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "single_field_diff_states",
+    "description": ""
+  },
+  "creationDate": "2021-10-12T09:54:52.637Z",
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "Поле_1",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 4
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 5
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 2
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 8
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 9
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 10
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

@@ -1,1 +1,25 @@
-{"qInfo":{"qId":"ghJzRj","qType":"dimension"},"qDim":{"qGrouping":"N","qFieldDefs":["=2"],"qFieldLabels":["1_renamed"],"title":"1_renamed","coloring":{"changeHash":"0.3031384825939698","colorMapRef":"ghJzRj"}},"qMetaDef":{"title":"1_renamed","description":"Change field to 2","tags":[]}}
+{
+  "qInfo": {
+    "qId": "ghJzRj",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=2"
+    ],
+    "qFieldLabels": [
+      "1_renamed"
+    ],
+    "title": "1_renamed",
+    "coloring": {
+      "changeHash": "0.3031384825939698",
+      "colorMapRef": "ghJzRj"
+    }
+  },
+  "qMetaDef": {
+    "title": "1_renamed",
+    "description": "Change field to 2",
+    "tags": []
+  }
+}

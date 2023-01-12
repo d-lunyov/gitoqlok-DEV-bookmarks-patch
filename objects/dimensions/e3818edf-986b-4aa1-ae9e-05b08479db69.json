@@ -1,1 +1,26 @@
-{"qInfo":{"qId":"e3818edf-986b-4aa1-ae9e-05b08479db69","qType":"dimension"},"qDim":{"qGrouping":"N","qFieldDefs":["Импортный"],"qFieldLabels":["Импортный"],"title":"Импортный","coloring":{"colorMapRef":"Smaes","changeHash":"0.6832253870151246"}},"qMetaDef":{"title":"Импортный","description":"","tags":[],"isBlueprintItem":true}}
+{
+  "qInfo": {
+    "qId": "e3818edf-986b-4aa1-ae9e-05b08479db69",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Импортный"
+    ],
+    "qFieldLabels": [
+      "Импортный"
+    ],
+    "title": "Импортный",
+    "coloring": {
+      "colorMapRef": "Smaes",
+      "changeHash": "0.6832253870151246"
+    }
+  },
+  "qMetaDef": {
+    "title": "Импортный",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

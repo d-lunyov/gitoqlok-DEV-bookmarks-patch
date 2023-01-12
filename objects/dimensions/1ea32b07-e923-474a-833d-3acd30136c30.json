@@ -1,1 +1,26 @@
-{"qInfo":{"qId":"1ea32b07-e923-474a-833d-3acd30136c30","qType":"dimension"},"qDim":{"qGrouping":"N","qFieldDefs":["Группа"],"qFieldLabels":["Группа"],"title":"Группа","coloring":{"colorMapRef":"Smaes","changeHash":"0.8850199971738093"}},"qMetaDef":{"title":"Группа","description":"","tags":[],"isBlueprintItem":true}}
+{
+  "qInfo": {
+    "qId": "1ea32b07-e923-474a-833d-3acd30136c30",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Группа"
+    ],
+    "qFieldLabels": [
+      "Группа"
+    ],
+    "title": "Группа",
+    "coloring": {
+      "colorMapRef": "Smaes",
+      "changeHash": "0.8850199971738093"
+    }
+  },
+  "qMetaDef": {
+    "title": "Группа",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}

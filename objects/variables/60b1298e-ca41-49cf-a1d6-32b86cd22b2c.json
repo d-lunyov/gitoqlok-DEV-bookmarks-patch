@@ -1,1 +1,17 @@
-{"qInfo":{"qId":"60b1298e-ca41-49cf-a1d6-32b86cd22b2c","qType":"variable"},"qMetaDef":{"isBlueprintItem":true},"qName":"vGroupDim","qNumberPresentation":{"qType":"U","qnDec":10,"qUseThou":0},"qDefinition":"Подгруппа","tags":[]}
+{
+  "qInfo": {
+    "qId": "60b1298e-ca41-49cf-a1d6-32b86cd22b2c",
+    "qType": "variable"
+  },
+  "qMetaDef": {
+    "isBlueprintItem": true
+  },
+  "qName": "vGroupDim",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Подгруппа",
+  "tags": []
+}

@@ -1,1 +1,25 @@
-{"qInfo":{"qId":"Smaes","qType":"dimension"},"qDim":{"qGrouping":"N","qFieldDefs":["Год"],"qFieldLabels":["Год"],"title":"Год","coloring":{"changeHash":"0.5893486216753734"}},"qMetaDef":{"title":"Год","description":"","tags":[],"isBlueprintItem":true}}
+{
+  "qInfo": {
+    "qId": "Smaes",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Год"
+    ],
+    "qFieldLabels": [
+      "Год"
+    ],
+    "title": "Год",
+    "coloring": {
+      "changeHash": "0.5893486216753734"
+    }
+  },
+  "qMetaDef": {
+    "title": "Год",
+    "description": "",
+    "tags": [],
+    "isBlueprintItem": true
+  }
+}
