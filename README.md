@@ -31,4 +31,3 @@ DEV-deploytest_fields|[https://dev2.datanomix.pro/sso/sense/app/bb93e23f-d3c1-42
 dev-testDeployReloadData2|[https://dev2.datanomix.pro/sso/sense/app/2f285bfa-d8af-4c2e-9059-0335d57e8119](https://dev2.datanomix.pro/sso/sense/app/2f285bfa-d8af-4c2e-9059-0335d57e8119)
 dev-deployTestDataReload3|[https://dev2.datanomix.pro/sso/sense/app/761df80c-8eeb-4252-bfba-f47706f60e1d](https://dev2.datanomix.pro/sso/sense/app/761df80c-8eeb-4252-bfba-f47706f60e1d)
 dev-deployTestDataReload5|[https://dev2.datanomix.pro/sso/sense/app/8bcac71c-0ca2-484c-a0fc-1307ef0f3574](https://dev2.datanomix.pro/sso/sense/app/8bcac71c-0ca2-484c-a0fc-1307ef0f3574)
-teacher-datanomix.pro23344|[https://dev2.datanomix.pro/sso/sense/app/b9e1629b-cbac-4d18-9eb2-731ecb65994c](https://dev2.datanomix.pro/sso/sense/app/b9e1629b-cbac-4d18-9eb2-731ecb65994c)
