@@ -9,6 +9,7 @@ SET DateFormat='DD.MM.YYYY';
 SET TimestampFormat='DD.MM.YYYY h:mm:ss[.fff]';
 SET FirstWeekDay=0;
 SET BrokenWeeks=1;
+
 SET ReferenceDay=0;
 SET FirstMonthOfYear=1;
 SET CollationLocale='ru-RU';

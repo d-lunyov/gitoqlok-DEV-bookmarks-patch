@@ -8,13 +8,13 @@ Created By d-lunyov(Dmitriy Lunyov) at Tue Sep 28 2021 16:31:46 GMT+0300 (Мос
 
 Sheet Title | Description
 ------------ | -------------
-Sheet3|
-Sheet2|
+Sheet3|Gaining insights into quarterly, regional, and product-level sales trends
+Sheet2|Gaining insights into quarterly, regional, and product-level sales trends
 My new sheet|
 Мой лист|
-New sheet|
-Sheet1|
-Balance Sheet Examples|
+New sheet|213443
+Sales Performance Snapshot|Gaining insights into quarterly, regional, and product-level sales trends
+Sales Performance Snapshot|Gaining insights into quarterly, regional, and product-level sales trends
 
 
 

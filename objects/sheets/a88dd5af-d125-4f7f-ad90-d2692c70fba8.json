@@ -5,8 +5,9 @@
       "qType": "sheet"
     },
     "qMetaDef": {
-      "title": "Sheet1",
-      "description": ""
+      "title": "Sales Performance Snapshot",
+      "description": "Gaining insights into quarterly, regional, and product-level sales trends",
+      "qTitle": "Sales Performance Snapshot"
     },
     "rank": 0,
     "thumbnail": {

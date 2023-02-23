@@ -18,7 +18,7 @@
           {
             "qDef": {
               "qName": "Field_quotes",
-              "qType": "PRESENT"
+              "qType": "NOT_PRESENT"
             },
             "qSelectInfo": {
               "qRangeLo": "NaN",

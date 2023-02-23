@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "xtypPD",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Cost of Goods Sold (COGS)",
+    "qDef": "Sum({$<Year={'$(=Max(Year))'}>} UnitCost * Quantity)\n//This expression calculates the COGS for the current year, as specified by the set analysis. The \"$<Year={'$(=Max(Year))'}\" part of the expression limits the calculation to the current year, which is determined by using Max function to identify the maximum value of the \"Year\" field.\n//Note: The field names and values used in this expression may vary depending on your data and the specific requirements of your KPI. You should adjust the expression to match your data structure and desired behavior.",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Cost of Goods Sold (COGS)",
+    "description": "The Total Cost of Goods Sold (COGS) KPI measures the total cost incurred to produce and sell the company's products. It is calculated by multiplying the unit cost of a product by the quantity sold, and then summing up these values for all products sold. This KPI is useful for determining the profitability of the company's product lines and for identifying areas where costs can be reduced.",
+    "tags": []
+  }
+}

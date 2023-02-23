@@ -6,7 +6,7 @@
     },
     "qMetaDef": {
       "title": "Sheet2",
-      "description": ""
+      "description": "Gaining insights into quarterly, regional, and product-level sales trends"
     },
     "rank": 1,
     "thumbnail": {
@@ -414,7 +414,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": -835881152,
+          "hashCode": -142092846,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [],
@@ -424,27 +424,73 @@
                   "qDef": {
                     "qTags": [],
                     "qGrouping": "N",
+                    "qAggrFunc": "Expr",
                     "qAccumulate": 0,
                     "qActiveExpression": 0,
                     "qExpressions": [],
                     "autoSort": true,
-                    "cId": "DBCxbn",
+                    "cId": "prjrP",
                     "numFormatFromTemplate": true,
-                    "measureAxis": {
-                      "min": 0,
-                      "max": 100
+                    "textAlign": {
+                      "auto": true,
+                      "align": "left"
+                    },
+                    "representation": {
+                      "type": "text",
+                      "indicator": {
+                        "showTextValues": true,
+                        "applySegmentColors": false,
+                        "position": "right"
+                      },
+                      "miniChart": {
+                        "type": "sparkline",
+                        "colors": {
+                          "main": {
+                            "index": 6
+                          },
+                          "max": {
+                            "index": 0,
+                            "color": "none"
+                          },
+                          "min": {
+                            "index": 0,
+                            "color": "none"
+                          },
+                          "first": {
+                            "index": 0,
+                            "color": "none"
+                          },
+                          "last": {
+                            "index": 0,
+                            "color": "none"
+                          },
+                          "positive": {
+                            "index": 6
+                          },
+                          "negative": {
+                            "index": 10,
+                            "color": "#f93f17"
+                          }
+                        },
+                        "showDots": true,
+                        "yAxis": {
+                          "scale": "local",
+                          "position": "auto"
+                        }
+                      },
+                      "imageSetting": "label",
+                      "imageLabel": "",
+                      "imageUrl": "",
+                      "imageSize": "fitHeight",
+                      "imagePosition": "topCenter"
                     },
                     "conditionalColoring": {
-                      "useConditionalColoring": false,
-                      "singleColor": 3,
-                      "paletteSingleColor": {
-                        "index": 12
-                      },
                       "segments": {
                         "limits": [],
                         "paletteColors": [
                           {
-                            "index": 6
+                            "index": 6,
+                            "icon": "dot"
                           }
                         ]
                       }
@@ -491,8 +537,8 @@
                 {
                   "qLeft": 0,
                   "qTop": 0,
-                  "qWidth": 500,
-                  "qHeight": 10
+                  "qWidth": 0,
+                  "qHeight": 0
                 }
               ],
               "qReductionMode": "N",
@@ -506,9 +552,20 @@
                 "qCond": {},
                 "qMsg": {}
               },
-              "qColumnOrder": [],
+              "qColumnOrder": [
+                0
+              ],
               "qExpansionState": [],
-              "qDynamicScript": []
+              "qDynamicScript": [],
+              "columnOrder": [
+                0
+              ],
+              "columnWidths": [
+                -1
+              ]
+            },
+            "search": {
+              "sorting": "auto"
             },
             "showTitles": false,
             "title": "",
@@ -516,86 +573,50 @@
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
+            "showDetailsExpression": false,
             "qStateName": "",
             "components": [],
-            "showMeasureTitle": true,
-            "showSecondMeasureTitle": true,
-            "textAlign": "center",
-            "layoutBehavior": "responsive",
-            "fontSize": "M",
-            "useLink": false,
-            "sheetLink": "",
-            "openUrlInNewTab": true,
-            "qInfo": {
-              "qType": "kpi"
+            "totals": {
+              "show": true,
+              "position": "noTotals",
+              "label": "Totals"
             },
-            "visualization": "kpi",
-            "version": "0.7.1",
+            "scrolling": {
+              "horizontal": true,
+              "keepFirstColumnInView": false,
+              "keepFirstColumnInViewTouch": false
+            },
+            "multiline": {
+              "wrapTextInHeaders": true,
+              "wrapTextInCells": true
+            },
+            "qInfo": {
+              "qType": "table"
+            },
+            "visualization": "table",
             "isRecommended": true,
             "qLayoutExclude": {
               "disabled": {},
-              "quarantine": {}
+              "quarantine": {
+                "conditionalShowHide": {
+                  "measures": {}
+                },
+                "miniChartDef": {
+                  "measures": {}
+                }
+              }
             },
             "recommendation": {
-              "options": {},
               "analysis": {
-                "analysis": "fact",
-                "analysisGroup": "fact",
-                "description": {
-                  "short": "Вычисленные значения",
-                  "long": "Показывает вычисленное значение."
-                },
-                "title": "measure1",
-                "titleTemplate": [
-                  {
-                    "msgId": "cao.chart.fact.title",
-                    "msgParams": {
-                      "$$1": 0
-                    }
-                  }
-                ],
+                "analysis": "list",
+                "dims": [],
                 "msrs": [
                   {
-                    "expr": "LwpJqj",
-                    "masterMsrFormat": {
-                      "qType": "U",
-                      "qnDec": 10,
-                      "qUseThou": 0
-                    },
-                    "coloring": {},
-                    "cType": "eLibItem",
                     "libId": "LwpJqj",
-                    "label": "measure1",
-                    "fieldStats": {
-                      "valueRange": {
-                        "min": 1,
-                        "max": 1
-                      },
-                      "classification": [
-                        "measure"
-                      ]
-                    }
+                    "cType": "eLibItem"
                   }
                 ]
-              },
-              "isExtendedAnalysis": false,
-              "matchRecord": {
-                "analysisPrecedentId": "Msr-Aggr",
-                "matches": [
-                  {
-                    "slot": "$$1",
-                    "slotRole": "measure",
-                    "libId": "LwpJqj",
-                    "libIdLabel": "measure1"
-                  }
-                ],
-                "precedentStats": {
-                  "matchedFields": 0,
-                  "uniquePrecedents": 0
-                }
-              },
-              "relevance": 1,
-              "analysisIntentRelevance": 0.09000000000000001
+              }
             }
           }
         }
@@ -672,7 +693,7 @@
         "showDetails": false,
         "visualization": "auto-chart",
         "qUndoExclude": {
-          "hashCode": 1915084885,
+          "hashCode": -1686780714,
           "generated": {
             "qHyperCubeDef": {
               "qDimensions": [
@@ -693,8 +714,8 @@
                     "qNumberPresentations": [],
                     "qActiveField": 0,
                     "autoSort": true,
-                    "cId": "vRMAr",
-                    "othersLabel": "Другие",
+                    "cId": "SgTxJ",
+                    "othersLabel": "Others",
                     "textAlign": {
                       "auto": true,
                       "align": "left"
@@ -735,7 +756,7 @@
                     "qCond": {},
                     "qMsg": {}
                   },
-                  "othersLabel": "Другие"
+                  "othersLabel": "Others"
                 }
               ],
               "qMeasures": [],
@@ -783,12 +804,13 @@
             "footnote": "",
             "disableNavMenu": false,
             "showDetails": false,
+            "showDetailsExpression": false,
             "qStateName": "",
             "components": [],
             "totals": {
               "show": true,
               "position": "noTotals",
-              "label": "Итоги"
+              "label": "Totals"
             },
             "scrolling": {
               "horizontal": true,

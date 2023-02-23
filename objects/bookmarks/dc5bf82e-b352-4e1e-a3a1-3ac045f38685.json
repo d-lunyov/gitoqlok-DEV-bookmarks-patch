@@ -14,7 +14,7 @@
           {
             "qDef": {
               "qName": "Numbers",
-              "qType": "PRESENT"
+              "qType": "NOT_PRESENT"
             },
             "qSelectInfo": {
               "qRangeLo": "NaN",

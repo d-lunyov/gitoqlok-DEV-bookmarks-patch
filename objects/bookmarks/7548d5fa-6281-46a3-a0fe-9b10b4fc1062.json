@@ -18,7 +18,7 @@
           {
             "qDef": {
               "qName": "Поле_1",
-              "qType": "PRESENT"
+              "qType": "NOT_PRESENT"
             },
             "qSelectInfo": {
               "qRangeLo": "NaN",
@@ -51,7 +51,7 @@
           {
             "qDef": {
               "qName": "Поле_2",
-              "qType": "PRESENT"
+              "qType": "NOT_PRESENT"
             },
             "qSelectInfo": {
               "qRangeLo": "NaN",
