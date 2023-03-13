@@ -8,13 +8,13 @@ Created By d-lunyov(Dmitriy Lunyov) at Tue Sep 28 2021 16:31:46 GMT+0300 (Мос
 
 Sheet Title | Description
 ------------ | -------------
-Sheet3|
-Sheet2|
+Sheet3|Gaining insights into quarterly, regional, and product-level sales trends
+Sheet2|Gaining insights into quarterly, regional, and product-level sales trends
 My new sheet|
 Мой лист|
-New sheet|
-Sheet1|
-Balance Sheet Examples|
+New sheet|213443
+Sales Performance Snapshot|Gaining insights into quarterly, regional, and product-level sales trends
+Sales Performance Snapshot|Gaining insights into quarterly, regional, and product-level sales trends
 
 
 
@@ -32,3 +32,4 @@ dev-testDeployReloadData2|[https://dev2.datanomix.pro/sso/sense/app/2f285bfa-d8a
 dev-deployTestDataReload3|[https://dev2.datanomix.pro/sso/sense/app/761df80c-8eeb-4252-bfba-f47706f60e1d](https://dev2.datanomix.pro/sso/sense/app/761df80c-8eeb-4252-bfba-f47706f60e1d)
 dev-deployTestDataReload5|[https://dev2.datanomix.pro/sso/sense/app/8bcac71c-0ca2-484c-a0fc-1307ef0f3574](https://dev2.datanomix.pro/sso/sense/app/8bcac71c-0ca2-484c-a0fc-1307ef0f3574)
 dev-deployTest999|[https://dev2.datanomix.pro/sso/sense/app/99eac91b-c918-4b31-9f76-97b398479f8b](https://dev2.datanomix.pro/sso/sense/app/99eac91b-c918-4b31-9f76-97b398479f8b)
+_NewLinkSystem|[https://dev2.datanomix.pro/sso/sense/app/bca4e7fd-6cbb-400a-9050-d74da19b780c](https://dev2.datanomix.pro/sso/sense/app/bca4e7fd-6cbb-400a-9050-d74da19b780c)
