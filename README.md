@@ -37,3 +37,4 @@ _newLinkSystem_notDevelop|[https://dev2.datanomix.pro/sso/sense/app/053a1746-fb6
 _usebranchNameObject|[https://dev2.datanomix.pro/sso/sense/app/cb9d0817-99a4-4af7-a23e-5c273d1854d5](https://dev2.datanomix.pro/sso/sense/app/cb9d0817-99a4-4af7-a23e-5c273d1854d5)
 _useBranch-NameObject_dupfromdup|[https://dev2.datanomix.pro/sso/sense/app/115efa9d-789d-4067-96a1-1b2f57b88d6e](https://dev2.datanomix.pro/sso/sense/app/115efa9d-789d-4067-96a1-1b2f57b88d6e)
 demoBranch1|[https://dev2.datanomix.pro/sso/sense/app/c544642a-d707-41ce-897b-be7a2212364b](https://dev2.datanomix.pro/sso/sense/app/c544642a-d707-41ce-897b-be7a2212364b)
+fromBranch1|[https://dev2.datanomix.pro/sso/sense/app/e215dcca-7bd3-49e8-a457-36bbd4080216](https://dev2.datanomix.pro/sso/sense/app/e215dcca-7bd3-49e8-a457-36bbd4080216)
