@@ -1,0 +1,66 @@
+[
+  {
+    "id": "78f346e2-1753-4c15-a171-0a409f5e5008",
+    "createdDate": "2022-05-23T21:20:54.201Z",
+    "modifiedDate": "2022-05-23T21:20:54.201Z",
+    "modifiedByUserName": "DATANOMIX.PRO\\alex@datanomix.pro",
+    "customProperties": [],
+    "owner": {
+      "id": "33c244c0-3994-4648-9d48-2a7b00d6ddeb",
+      "userId": "alex@datanomix.pro",
+      "userDirectory": "DATANOMIX.PRO",
+      "userDirectoryConnectorName": null,
+      "name": "alex@datanomix.pro",
+      "privileges": null
+    },
+    "name": "sunset",
+    "tags": [],
+    "whiteList": {
+      "id": "0106f312-d616-4a72-84a1-12d57bf25aef",
+      "libraryType": 3,
+      "privileges": null
+    },
+    "references": [
+      {
+        "id": "e00eb472-b478-4b3e-9580-8667f9f997a1",
+        "dataLocation": "%StaticContentRoot%\\Extensions\\sunset\\sunset.qext",
+        "logicalPath": "/extensions/sunset/sunset.qext",
+        "externalPath": "/extensions/sunset/sunset.qext",
+        "serveOptions": 0,
+        "privileges": null
+      },
+      {
+        "id": "66049510-f44c-484c-a352-f3653a3d1373",
+        "dataLocation": "%StaticContentRoot%\\Extensions\\sunset\\theme.css",
+        "logicalPath": "/extensions/sunset/theme.css",
+        "externalPath": "/extensions/sunset/theme.css",
+        "serveOptions": 0,
+        "privileges": null
+      },
+      {
+        "id": "5443dc9d-b078-47fc-8d70-ae4dc1a22364",
+        "dataLocation": "%StaticContentRoot%\\Extensions\\sunset\\theme.json",
+        "logicalPath": "/extensions/sunset/theme.json",
+        "externalPath": "/extensions/sunset/theme.json",
+        "serveOptions": 0,
+        "privileges": null
+      }
+    ],
+    "privileges": null,
+    "schemaPath": "Extension",
+    "files": [
+      {
+        "path": "sunset.qext",
+        "content": "{\n  \"type\": \"theme\",\n  \"name\": \"Sunset\",\n  \"description\": \"Sunset colors (based on Pastel iOS app)\",\n  \"version\": \"1.0.0\",\n  \"author\": \"Barry Harmsen\"\n}"
+      },
+      {
+        "path": "theme.css",
+        "content": ".qvt-sheet {\n    background: #ffffff !important;\n}"
+      },
+      {
+        "path": "theme.json",
+        "content": "{\n  \"object\": {\n    \"title\": {\n      \"main\": {\n        \"color\": \"@TitleColor\",\n        \"fontSize\": \"@TitleSize\"\n      },\n      \"subTitle\": {\n        \"color\": \"@SubtitleColor\",\n        \"fontSize\": \"@SubtitleSize\"\n      },\n      \"footer\": {\n        \"color\": \"@FooterColor\",\n        \"fontSize\": \"@FooterSize\",\n        \"backgroundColor\": \"#ffffff\"\n      }\n    },\n    \"label\": {\n      \"name\": {\n        \"color\": \"@TextColor\",\n        \"fontSize\": \"@TextSize\"\n      },\n      \"value\": {\n        \"color\": \"@TextColor\",\n        \"fontSize\": \"@TextSize\"\n      }\n    },\n    \"axis\": {\n      \"title\": {\n        \"color\": \"@TextColor\",\n        \"fontSize\": \"@TextSize\"\n      },\n      \"label\": {\n        \"name\": {\n          \"color\": \"@TextColor\",\n          \"fontSize\": \"@TextSize\"\n        }\n      },\n      \"line\": {\n        \"major\": {\n          \"color\": \"#eeeeee\"\n        },\n        \"minor\": {\n          \"color\": \"#eeeeee\"\n        }\n      }\n    },\n    \"grid\": {\n      \"line\": {\n        \"highContrast\": {\n          \"color\": \"#eeeeee\"\n        },\n        \"major\": {\n          \"color\": \"#eeeeee\"\n        },\n        \"minor\": {\n          \"color\": \"#eeeeee\"\n        }\n      }\n    },\n    \"referenceLine\": {\n      \"label\": {\n        \"name\": {\n          \"color\": \"@TextColor\",\n          \"fontSize\": \"@TextSize\"\n        }\n      },\n      \"outOfBounds\": {\n        \"color\": \"@TextColor\",\n        \"backgroundColor\": \"#ffffff\",\n        \"fontSize\": \"@TextSize\"\n      }\n    },\n    \"legend\": {\n      \"title\": {\n        \"color\": \"@TextColor\",\n        \"fontSize\": \"@TextSize\"\n      },\n      \"label\": {\n        \"color\": \"@TextColor\",\n        \"fontSize\": \"@TextSize\"\n      }\n    }\n  },\n  \"dataColors\": {\n    \"primaryColor\": \"#3e9cbe\",\n    \"othersColor\": \"#a7ecf3\",\n    \"errorColor\": \"#f26c4f\",\n    \"nullColor\": \"#CCCCCC\"\n  },\n  \"palettes\": {\n    \"data\": [\n      {\n        \"scale\": [\n          \"#3e9cbe\",\n          \"#a7ecf3\",\n          \"#f2c43d\",\n          \"#f17c37\",\n          \"#f26c4f\"\n        ],\n        \"name\": \"Sunset Dimension\",\n        \"translation\": \"Sunset Dimension Colors\",\n        \"propertyValue\": \"gw5mb1\",\n        \"type\": \"row\",\n        \"_id\": \"5ee62ddfa04760036601e6b9\"\n      }\n    ],\n    \"ui\": [\n      {\n        \"colors\": [\n          \"#3e9cbe\",\n          \"#a7ecf3\",\n          \"#f2c43d\",\n          \"#f17c37\",\n          \"#f26c4f\",\n          \"#f52e2e\"\n        ],\n        \"name\": \"Sunset colors\",\n        \"_id\": \"5ee62ddfa04760036601e6ba\"\n      }\n    ]\n  },\n  \"customStyles\": [\n    {\n      \"cssRef\": \"theme.css\",\n      \"classRef\": \"sense-theme\"\n    }\n  ],\n  \"scales\": [\n    {\n      \"scale\": [\n        \"#3e9cbe\",\n        \"#a7ecf3\",\n        \"#f2c43d\",\n        \"#f17c37\",\n        \"#f26c4f\"\n      ],\n      \"name\": \"Sunset Class\",\n      \"translation\": \"Sunset Class Colors\",\n      \"type\": \"class\",\n      \"propertyValue\": \"tjrf33\",\n      \"_id\": \"5ee62ddfa04760036601e6bc\"\n    },\n    {\n      \"scale\": [\n        \"#3e9cbe\",\n        \"#a7ecf3\",\n        \"#f2c43d\",\n        \"#f17c37\",\n        \"#f26c4f\"\n      ],\n      \"name\": \"Sunset Gradient\",\n      \"translation\": \"Sunset Gradient Colors\",\n      \"type\": \"gradient\",\n      \"propertyValue\": \"4i64db\",\n      \"_id\": \"5ee62ddfa04760036601e6bb\"\n    }\n  ],\n  \"_inherit\": true,\n  \"_variables\": {\n    \"@TitleSize\": \"16px\",\n    \"@SubtitleSize\": \"15px\",\n    \"@TextSize\": \"12px\",\n    \"@FooterSize\": \"10px\",\n    \"@TitleColor\": \"#3e9cbe\",\n    \"@SubtitleColor\": \"#3e9cbe\",\n    \"@TextColor\": \"#3e9cbe\",\n    \"@FooterColor\": \"#3e9cbe\",\n    \"@BackgroundColor\": \"#ffffff\",\n    \"@AxisMajorColor\": \"#eeeeee\",\n    \"@AxisMinorColor\": \"#eeeeee\"\n  },\n  \"color\": \"@TextColor\",\n  \"fontSize\": \"@TextSize\",\n  \"backgroundColor\": \"@BackgroundColor\"\n}"
+      }
+    ]
+  }
+]
