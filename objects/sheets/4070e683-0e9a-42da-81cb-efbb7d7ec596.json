@@ -1,7 +1,5 @@
 {
-   "qproperty": {
-
-      "qProperty": {
+   "qProperty": {
          "cells": [
             {
                "bounds": {
@@ -41,8 +39,7 @@
                "qUrl": "/appcontent/d62c0c54-051a-4423-b9f2-c884d5172916/Salesforce1.png"
             }
          }
-      }
-   },
+      },
    "qChildren": [
       {
          "qChildren": [],
