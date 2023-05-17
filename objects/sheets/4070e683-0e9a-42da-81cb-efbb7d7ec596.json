@@ -1,45 +1,45 @@
 {
    "qProperty": {
-      "cells": [
-         {
-            "bounds": {
-               "height": 50,
-               "width": 50,
-               "x": 0,
-               "y": 0
-            },
-            "col": 0,
-            "colspan": 12,
-            "name": "mJUZUA",
-            "row": 0,
-            "rowspan": 6,
-            "type": "table"
-         }
-      ],
-      "columns": 24,
-      "gridMode": "edit",
-      "gridResolution": "small",
-      "qChildListDef": {
-         "qData": {
-            "title": "/title"
+         "cells": [
+            {
+               "bounds": {
+                  "height": 50,
+                  "width": 50,
+                  "x": 50,
+                  "y": 50
+               },
+               "col": 12,
+               "colspan": 12,
+               "name": "mJUZUA",
+               "row": 6,
+               "rowspan": 6,
+               "type": "table"
+            }
+         ],
+         "columns": 24,
+         "gridMode": "edit",
+         "gridResolution": "small",
+         "qChildListDef": {
+            "qData": {
+               "title": "/title"
+            }
+         },
+         "qInfo": {
+            "qId": "4070e683-0e9a-42da-81cb-efbb7d7ec596",
+            "qType": "sheet"
+         },
+         "qMetaDef": {
+            "description": "",
+            "title": "Sales Dashboard"
+         },
+         "rank": 0,
+         "rows": 12,
+         "thumbnail": {
+            "qStaticContentUrlDef": {
+               "qUrl": "/appcontent/d62c0c54-051a-4423-b9f2-c884d5172916/Salesforce1.png"
+            }
          }
       },
-      "qInfo": {
-         "qId": "4070e683-0e9a-42da-81cb-efbb7d7ec596",
-         "qType": "sheet"
-      },
-      "qMetaDef": {
-         "description": "",
-         "title": "Sales Dashboard"
-      },
-      "rank": 0,
-      "rows": 12,
-      "thumbnail": {
-         "qStaticContentUrlDef": {
-            "qUrl": "/appcontent/d62c0c54-051a-4423-b9f2-c884d5172916/Salesforce1.png"
-         }
-      }
-   },
    "qChildren": [
       {
          "qChildren": [],
@@ -94,7 +94,7 @@
                            {
                               "qExpression": {},
                               "qSortByLoadOrder": 1,
-                              "qSortByNumeric": -1
+                              "qSortByNumeric": 1
                            }
                         ],
                         "representation": {
@@ -226,7 +226,7 @@
             },
             "qInfo": {
                "qId": "mJUZUA",
-               "qType": "table"
+               "qType": "chart"
             },
             "qMetaDef": {},
             "scrolling": {
