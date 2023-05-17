@@ -10,7 +10,7 @@
                },
                "col": 0,
                "colspan": 12,
-               "name": "mJUZUS",
+               "name": "mJUZUA",
                "row": 0,
                "rowspan": 6,
                "type": "table"
@@ -30,7 +30,7 @@
          },
          "qMetaDef": {
             "description": "",
-            "title": "Sales Dashboard 2"
+            "title": "Sales Dashboard"
          },
          "rank": 0,
          "rows": 12,
@@ -225,7 +225,7 @@
                "qTitle": {}
             },
             "qInfo": {
-               "qId": "mJUZUS",
+               "qId": "mJUZUA",
                "qType": "table"
             },
             "qMetaDef": {},
