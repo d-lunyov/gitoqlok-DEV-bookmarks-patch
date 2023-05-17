@@ -1,45 +1,45 @@
 {
    "qProperty": {
-         "cells": [
-            {
-               "bounds": {
-                  "height": 50,
-                  "width": 50,
-                  "x": 0,
-                  "y": 0
-               },
-               "col": 0,
-               "colspan": 12,
-               "name": "mJUZUA",
-               "row": 0,
-               "rowspan": 6,
-               "type": "table"
-            }
-         ],
-         "columns": 24,
-         "gridMode": "edit",
-         "gridResolution": "small",
-         "qChildListDef": {
-            "qData": {
-               "title": "/title"
-            }
-         },
-         "qInfo": {
-            "qId": "4070e683-0e9a-42da-81cb-efbb7d7ec596",
-            "qType": "sheet"
-         },
-         "qMetaDef": {
-            "description": "",
-            "title": "Sales Dashboard"
-         },
-         "rank": 0,
-         "rows": 12,
-         "thumbnail": {
-            "qStaticContentUrlDef": {
-               "qUrl": "/appcontent/d62c0c54-051a-4423-b9f2-c884d5172916/Salesforce1.png"
-            }
+      "cells": [
+         {
+            "bounds": {
+               "height": 50,
+               "width": 50,
+               "x": 0,
+               "y": 0
+            },
+            "col": 0,
+            "colspan": 12,
+            "name": "mJUZUA",
+            "row": 0,
+            "rowspan": 6,
+            "type": "table"
+         }
+      ],
+      "columns": 24,
+      "gridMode": "edit",
+      "gridResolution": "small",
+      "qChildListDef": {
+         "qData": {
+            "title": "/title"
          }
       },
+      "qInfo": {
+         "qId": "4070e683-0e9a-42da-81cb-efbb7d7ec596",
+         "qType": "sheet"
+      },
+      "qMetaDef": {
+         "description": "",
+         "title": "Sales Dashboard"
+      },
+      "rank": 0,
+      "rows": 12,
+      "thumbnail": {
+         "qStaticContentUrlDef": {
+            "qUrl": "/appcontent/d62c0c54-051a-4423-b9f2-c884d5172916/Salesforce1.png"
+         }
+      }
+   },
    "qChildren": [
       {
          "qChildren": [],
@@ -82,7 +82,7 @@
                         "othersLabel": "Others",
                         "qActiveField": 0,
                         "qFieldDefs": [
-                           "Country"
+                           "Month"
                         ],
                         "qFieldLabels": [
                            ""
@@ -174,7 +174,7 @@
                         "qAccumulate": 0,
                         "qActiveExpression": 0,
                         "qAggrFunc": "Expr",
-                        "qDef": "sum([Total Sales])/1000000",
+                        "qDef": "sum({<[Opportunity Triphase]={'OPEN'}>}[Opportunity Amount] * $(='ExRate_USD')*[Opportunity Probability])/1000000",
                         "qExpressions": [],
                         "qGrouping": "N",
                         "qLabelExpression": "='  '",
@@ -235,13 +235,13 @@
             "showDetails": false,
             "showTitles": true,
             "subtitle": "",
-            "title": "Top 10 Countries by Sales",
+            "title": "Total Sales by Month",
             "totals": {
                "label": "Totals",
                "position": "top",
                "show": false
             },
-            "visualization": "table"
+            "visualization": "linechart"
          }
       }
    ]
