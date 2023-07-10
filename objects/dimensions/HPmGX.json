@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "HPmGX",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=2"
+    ],
+    "qFieldLabels": [
+      "dim4"
+    ],
+    "title": "dim4",
+    "coloring": {
+      "changeHash": "0.8984980890192726"
+    }
+  },
+  "qMetaDef": {
+    "title": "dim4",
+    "description": "",
+    "tags": []
+  }
+}
