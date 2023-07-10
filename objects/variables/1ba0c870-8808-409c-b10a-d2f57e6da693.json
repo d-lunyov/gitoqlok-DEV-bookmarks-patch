@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "1ba0c870-8808-409c-b10a-d2f57e6da693",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "name",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Table",
+  "qIsScriptCreated": true
+}
