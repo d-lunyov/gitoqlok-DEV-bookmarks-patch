@@ -33,3 +33,4 @@ _usebranchNameObject|[https://dev2.datanomix.pro/sso/sense/app/cb9d0817-99a4-4af
 _useBranch-NameObject_dupfromdup|[https://dev2.datanomix.pro/sso/sense/app/115efa9d-789d-4067-96a1-1b2f57b88d6e](https://dev2.datanomix.pro/sso/sense/app/115efa9d-789d-4067-96a1-1b2f57b88d6e)
 demoBranch1|[https://dev2.datanomix.pro/sso/sense/app/c544642a-d707-41ce-897b-be7a2212364b](https://dev2.datanomix.pro/sso/sense/app/c544642a-d707-41ce-897b-be7a2212364b)
 fromBranch1|[https://dev2.datanomix.pro/sso/sense/app/e215dcca-7bd3-49e8-a457-36bbd4080216](https://dev2.datanomix.pro/sso/sense/app/e215dcca-7bd3-49e8-a457-36bbd4080216)
+dev-bookmarks-patch-deployed3|[https://test.datanomix.pro/sense/app/e71b6d11-a1ae-4797-a61e-47f242aeb87c](https://test.datanomix.pro/sense/app/e71b6d11-a1ae-4797-a61e-47f242aeb87c)
