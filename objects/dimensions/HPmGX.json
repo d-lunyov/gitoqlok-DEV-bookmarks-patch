@@ -9,15 +9,16 @@
       "=2"
     ],
     "qFieldLabels": [
-      "dim4"
+      "Unused Dimension"
     ],
-    "title": "dim4",
+    "title": "Unused Dimension",
     "coloring": {
-      "changeHash": "0.8984980890192726"
+      "changeHash": "0.07646292763716156",
+      "colorMapRef": "HPmGX"
     }
   },
   "qMetaDef": {
-    "title": "dim4",
+    "title": "Unused Dimension",
     "description": "",
     "tags": []
   }

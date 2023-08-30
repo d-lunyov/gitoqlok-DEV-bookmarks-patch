@@ -9,15 +9,16 @@
       "Поле_2"
     ],
     "qFieldLabels": [
-      "Поле_2"
+      "Used Dimension 2"
     ],
-    "title": "Поле_2",
+    "title": "Used Dimension 2",
     "coloring": {
-      "changeHash": "0.6419786140333492"
+      "changeHash": "0.37622276071167104",
+      "colorMapRef": "ZchA"
     }
   },
   "qMetaDef": {
-    "title": "Поле_2",
+    "title": "Used Dimension 2",
     "description": "",
     "tags": []
   }
