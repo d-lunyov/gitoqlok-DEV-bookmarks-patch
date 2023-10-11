@@ -58,5 +58,5 @@ Field_1
 ](delimiter is ',');
 ///$tab _gitoqlok
 /**
-** Last Updated at 9/28/2023, 6:11:55 PM: Add all master items [%_OBJECTS_%%_SCRIPT_%] (Dmitriy Lunyov at 9/21/2023, 4:48:54 PM)
+** Last Updated at 10/11/2023, 11:53:26 PM: add measure to the sheet [%_OBJECTS_%%_SCRIPT_%] (Dmitriy Lunyov at 9/29/2023, 9:54:04 AM)
 */
