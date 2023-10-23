@@ -18,13 +18,13 @@
       {
         "name": "TMkPjjP",
         "type": "auto-chart",
-        "col": 0,
+        "col": 12,
         "row": 6,
         "colspan": 12,
         "rowspan": 6,
         "bounds": {
           "y": 50,
-          "x": 0,
+          "x": 50,
           "width": 50,
           "height": 50
         }
