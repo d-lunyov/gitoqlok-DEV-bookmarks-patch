@@ -44,29 +44,29 @@
         }
       },
       {
-        "name": "NKDVdmF",
-        "type": "combochart",
-        "col": 12,
-        "row": 6,
+        "name": "UcsSb",
+        "type": "auto-chart",
+        "col": 0,
+        "row": 12,
         "colspan": 12,
         "rowspan": 6,
         "bounds": {
-          "y": 50,
-          "x": 50,
+          "y": 100,
+          "x": 0,
           "width": 50,
           "height": 50
         }
       },
       {
-        "name": "UcsSb",
-        "type": "auto-chart",
-        "col": 12,
-        "row": 0,
+        "name": "NKDVdmF",
+        "type": "combochart",
+        "col": 0,
+        "row": 18,
         "colspan": 12,
         "rowspan": 6,
         "bounds": {
-          "y": 0,
-          "x": 50,
+          "y": 150,
+          "x": 0,
           "width": 50,
           "height": 50
         }
@@ -592,17 +592,6 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "NKDVdmF",
-          "qType": "combochart"
-        },
-        "qExtendsId": "35775cfc-ad5c-4eca-a323-e459928bacba",
-        "qMetaDef": {}
-      },
-      "qChildren": []
-    },
-    {
-      "qProperty": {
-        "qInfo": {
           "qId": "UcsSb",
           "qType": "auto-chart"
         },
@@ -827,6 +816,17 @@
             }
           }
         }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "NKDVdmF",
+          "qType": "combochart"
+        },
+        "qExtendsId": "35775cfc-ad5c-4eca-a323-e459928bacba",
+        "qMetaDef": {}
       },
       "qChildren": []
     }
