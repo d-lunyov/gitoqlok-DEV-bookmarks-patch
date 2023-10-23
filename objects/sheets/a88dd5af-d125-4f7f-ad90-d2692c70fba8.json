@@ -56,20 +56,6 @@
           "width": 50,
           "height": 50
         }
-      },
-      {
-        "name": "NKDVdmF",
-        "type": "combochart",
-        "col": 0,
-        "row": 18,
-        "colspan": 12,
-        "rowspan": 6,
-        "bounds": {
-          "y": 150,
-          "x": 0,
-          "width": 50,
-          "height": 50
-        }
       }
     ],
     "qChildListDef": {
@@ -816,17 +802,6 @@
             }
           }
         }
-      },
-      "qChildren": []
-    },
-    {
-      "qProperty": {
-        "qInfo": {
-          "qId": "NKDVdmF",
-          "qType": "combochart"
-        },
-        "qExtendsId": "35775cfc-ad5c-4eca-a323-e459928bacba",
-        "qMetaDef": {}
       },
       "qChildren": []
     }
