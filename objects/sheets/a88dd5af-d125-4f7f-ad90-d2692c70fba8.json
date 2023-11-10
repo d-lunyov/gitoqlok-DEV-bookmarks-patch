@@ -10,27 +10,15 @@
     },
     "rank": 0,
     "thumbnail": {
-      "qStaticContentUrlDef": {}
+      "qStaticContentUrlDef": {
+        "qUrl": "/appcontent/9ae1ceb4-fe33-4bc7-8497-7d9636805909/sheet_thumb_a88dd5af-d125-4f7f-ad90-d2692c70fba8-0.1284584050474078.png"
+      }
     },
     "columns": 24,
     "rows": 12,
     "cells": [
       {
-        "name": "TMkPjjP",
-        "type": "auto-chart",
-        "col": 12,
-        "row": 0,
-        "colspan": 12,
-        "rowspan": 6,
-        "bounds": {
-          "y": 0,
-          "x": 50,
-          "width": 50,
-          "height": 50
-        }
-      },
-      {
-        "name": "yFrWdan",
+        "name": "a77b43bd-5401-4a71-ac87-c915a86cf997",
         "type": "auto-chart",
         "col": 0,
         "row": 6,
@@ -38,6 +26,20 @@
         "rowspan": 6,
         "bounds": {
           "y": 50,
+          "x": 0,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "name": "304c773f-9033-4327-a60b-b3d907297a21",
+        "type": "auto-chart",
+        "col": 0,
+        "row": 0,
+        "colspan": 12,
+        "rowspan": 6,
+        "bounds": {
+          "y": 0,
           "x": 0,
           "width": 50,
           "height": 50
@@ -64,14 +66,14 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "TMkPjjP",
+          "qId": "a77b43bd-5401-4a71-ac87-c915a86cf997",
           "qType": "auto-chart"
         },
         "qMetaDef": {},
         "qHyperCubeDef": {
           "qDimensions": [
             {
-              "qLibraryId": "ghJzRj",
+              "qLibraryId": "98fe0be2-096c-4956-8c46-728ab1b439e5",
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [],
@@ -138,7 +140,7 @@
             "qHyperCubeDef": {
               "qDimensions": [
                 {
-                  "qLibraryId": "ghJzRj",
+                  "qLibraryId": "98fe0be2-096c-4956-8c46-728ab1b439e5",
                   "qDef": {
                     "qGrouping": "N",
                     "qFieldDefs": [],
@@ -279,7 +281,7 @@
                 "analysis": "list",
                 "dims": [
                   {
-                    "libId": "ghJzRj",
+                    "libId": "98fe0be2-096c-4956-8c46-728ab1b439e5",
                     "cType": "eLibItem"
                   }
                 ],
@@ -294,7 +296,7 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "yFrWdan",
+          "qId": "304c773f-9033-4327-a60b-b3d907297a21",
           "qType": "auto-chart"
         },
         "qMetaDef": {},
@@ -302,7 +304,7 @@
           "qDimensions": [],
           "qMeasures": [
             {
-              "qLibraryId": "bPqbJ",
+              "qLibraryId": "96096e7a-ff8d-481c-bc73-44dc8236259b",
               "qDef": {
                 "qTags": [],
                 "qGrouping": "N",
@@ -377,7 +379,7 @@
               "qDimensions": [],
               "qMeasures": [
                 {
-                  "qLibraryId": "bPqbJ",
+                  "qLibraryId": "96096e7a-ff8d-481c-bc73-44dc8236259b",
                   "qDef": {
                     "qTags": [],
                     "qGrouping": "N",
@@ -515,7 +517,7 @@
                 ],
                 "msrs": [
                   {
-                    "expr": "bPqbJ",
+                    "expr": "96096e7a-ff8d-481c-bc73-44dc8236259b",
                     "masterMsrFormat": {
                       "qType": "U",
                       "qnDec": 10,
@@ -523,7 +525,7 @@
                     },
                     "coloring": {},
                     "cType": "eLibItem",
-                    "libId": "bPqbJ",
+                    "libId": "96096e7a-ff8d-481c-bc73-44dc8236259b",
                     "label": "gitoqlok",
                     "fieldStats": {
                       "valueRange": {
@@ -544,7 +546,7 @@
                   {
                     "slot": "$$1",
                     "slotRole": "measure",
-                    "libId": "bPqbJ",
+                    "libId": "96096e7a-ff8d-481c-bc73-44dc8236259b",
                     "libIdLabel": "gitoqlok"
                   }
                 ],
