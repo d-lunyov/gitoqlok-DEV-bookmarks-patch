@@ -1,1 +1,1 @@
-Main%tab_file_order_divider%Автоматически созданный раздел
+Main%tab_file_order_divider%Section1%tab_file_order_divider%Автоматически созданный раздел
