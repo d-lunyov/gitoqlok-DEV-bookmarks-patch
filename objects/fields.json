@@ -1,13 +1,1 @@
-[
-  {
-    "qName": "Field_1",
-    "qTags": [
-      "$numeric",
-      "$integer"
-    ],
-    "qSrcTables": [
-      "Table"
-    ],
-    "qAlwaysOneSelected": true
-  }
-]
+[]
