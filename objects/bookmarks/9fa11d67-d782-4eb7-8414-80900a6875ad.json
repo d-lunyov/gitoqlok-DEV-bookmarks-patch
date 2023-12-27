@@ -1,0 +1,46 @@
+{
+  "qInfo": {
+    "qId": "9fa11d67-d782-4eb7-8414-80900a6875ad",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "title222333"
+  },
+  "selectionFields": "",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Field_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              }
+            ],
+            "qExcludedValues": [],
+            "qOneAndOnlyOne": true
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

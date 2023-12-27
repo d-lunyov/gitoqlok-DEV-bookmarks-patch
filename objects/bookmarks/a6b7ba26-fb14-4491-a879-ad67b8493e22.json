@@ -1,0 +1,48 @@
+{
+  "qInfo": {
+    "qId": "a6b7ba26-fb14-4491-a879-ad67b8493e22",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "pole1_123_pole2_345",
+    "description": ""
+  },
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Field_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              }
+            ],
+            "qExcludedValues": [],
+            "qOneAndOnlyOne": true
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

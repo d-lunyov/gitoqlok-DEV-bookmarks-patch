@@ -1,0 +1,47 @@
+{
+  "qInfo": {
+    "qId": "bc223527-a0b2-4897-9dcc-a80cf4400e9a",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "_gitoqlok_temp_4dd65df8-22dd-4c26-9226-c8fef0dbec5b",
+    "description": "Temporary gitoqlok bookmark"
+  },
+  "selectionFields": "",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Field_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              }
+            ],
+            "qExcludedValues": [],
+            "qOneAndOnlyOne": true
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

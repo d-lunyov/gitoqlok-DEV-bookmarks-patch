@@ -1,0 +1,48 @@
+{
+  "qInfo": {
+    "qId": "bc3a4c8b-2376-41d5-8deb-77e113a10e05",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "Закладка2",
+    "description": ""
+  },
+  "sheetId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+  "selectionFields": "",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Field_1",
+              "qType": "PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 1
+              }
+            ],
+            "qExcludedValues": [],
+            "qOneAndOnlyOne": true
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}
