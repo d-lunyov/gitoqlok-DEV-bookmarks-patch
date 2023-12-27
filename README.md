@@ -40,3 +40,4 @@ dev-bookmarks-patch-deployed3|[https://test.datanomix.pro/sense/app/e71b6d11-a1a
 testAttachementIDs|[https://dev2.datanomix.pro/sso/sense/app/c9362813-b59a-48db-9ae5-9f98cf99f89b](https://dev2.datanomix.pro/sso/sense/app/c9362813-b59a-48db-9ae5-9f98cf99f89b)
 branchedFromTestAttachementsIDs|[https://dev2.datanomix.pro/sso/sense/app/46938e7e-0163-4eb7-bc62-296dd96adc5f](https://dev2.datanomix.pro/sso/sense/app/46938e7e-0163-4eb7-bc62-296dd96adc5f)
 deployed1111|[https://dev2.datanomix.pro/sso/sense/app/f272f3fb-6a32-4256-82d7-2a0935c8fb6a](https://dev2.datanomix.pro/sso/sense/app/f272f3fb-6a32-4256-82d7-2a0935c8fb6a)
+1-dev-deployFields|[https://dev2.datanomix.pro/sso/sense/app/60fd9308-8688-427e-bf14-db5e4e14c490](https://dev2.datanomix.pro/sso/sense/app/60fd9308-8688-427e-bf14-db5e4e14c490)
