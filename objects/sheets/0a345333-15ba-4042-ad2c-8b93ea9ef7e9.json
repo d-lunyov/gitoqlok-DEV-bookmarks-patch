@@ -23,7 +23,8 @@
     "gridResolution": "small",
     "layoutOptions": {
       "mobileLayout": "LIST"
-    }
+    },
+    "customRowBase": 12
   },
   "qChildren": []
 }
