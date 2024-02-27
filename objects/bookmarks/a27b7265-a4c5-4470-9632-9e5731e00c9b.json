@@ -1,0 +1,154 @@
+{
+  "qInfo": {
+    "qId": "a27b7265-a4c5-4470-9632-9e5731e00c9b",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "manually2"
+  },
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 4
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 5
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 2
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 8
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 9
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 10
+              }
+            ],
+            "qExcludedValues": []
+          },
+          {
+            "qDef": {
+              "qName": "Field_quotes",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qText": "\"value2\"",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "\"{}<>>< value\"",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "\"{}<>>< value2\"",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "`value1`",
+                "qNumber": "NaN"
+              },
+              {
+                "qText": "``value2",
+                "qNumber": "NaN"
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

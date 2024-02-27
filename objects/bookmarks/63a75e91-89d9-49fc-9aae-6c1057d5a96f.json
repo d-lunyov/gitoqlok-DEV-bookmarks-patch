@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "63a75e91-89d9-49fc-9aae-6c1057d5a96f",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "allUp"
+  },
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": []
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": []
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": []
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

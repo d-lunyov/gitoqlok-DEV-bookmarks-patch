@@ -1,0 +1,112 @@
+{
+  "qInfo": {
+    "qId": "681882ef-bc3a-43d7-a36d-511d6ce11718",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {},
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 4
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 5
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_2",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 2
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": [
+          {
+            "qDef": {
+              "qName": "Поле_1",
+              "qType": "NOT_PRESENT"
+            },
+            "qSelectInfo": {
+              "qRangeLo": "NaN",
+              "qRangeHi": "NaN",
+              "qNumberFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              },
+              "qRangeInfo": [],
+              "qContinuousRangeInfo": []
+            },
+            "qValues": [
+              {
+                "qIsNumeric": true,
+                "qNumber": 8
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 9
+              },
+              {
+                "qIsNumeric": true,
+                "qNumber": 10
+              }
+            ],
+            "qExcludedValues": []
+          }
+        ]
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": []
+  }
+}

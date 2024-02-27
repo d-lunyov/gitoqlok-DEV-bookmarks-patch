@@ -1,0 +1,63 @@
+{
+  "qInfo": {
+    "qId": "77a28e5d-02bf-46b0-9d7f-2449009c2942",
+    "qType": "bookmark"
+  },
+  "qMetaDef": {
+    "title": "down",
+    "description": ""
+  },
+  "creationDate": "2021-10-11T12:48:48.039Z",
+  "sheetId": null,
+  "selectionFields": "",
+  "qBookMark": {
+    "qStateData": [
+      {
+        "qStateName": "$",
+        "qFieldItems": []
+      },
+      {
+        "qStateName": "jjj",
+        "qFieldItems": []
+      },
+      {
+        "qStateName": "new",
+        "qFieldItems": []
+      }
+    ],
+    "qVariableItems": [],
+    "qPatches": [
+      {
+        "qInfo": {
+          "qId": "a88dd5af-d125-4f7f-ad90-d2692c70fba8",
+          "qType": "sheet"
+        },
+        "qPatches": [],
+        "qChildren": [
+          {
+            "qInfo": {
+              "qId": "VUEeq",
+              "qType": "auto-chart"
+            },
+            "qPatches": [
+              {
+                "qOp": "replace",
+                "qPath": "/qUndoExclude/generated/qHyperCubeDef/qDimensions",
+                "qValue": "[{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"Поле_1\"],\"qFieldLabels\":[],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qReverseSort\":true,\"qActiveField\":0,\"autoSort\":true,\"cId\":\"SmsYGL\",\"othersLabel\":\"Другие2\",\"textAlign\":{\"auto\":true,\"align\":\"left\"},\"representation\":{\"type\":\"text\",\"urlPosition\":\"dimension\",\"urlLabel\":\"\",\"linkUrl\":\"\",\"imageSetting\":\"label\",\"imageLabel\":\"\",\"imageUrl\":\"\"}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GT_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}},\"othersLabel\":\"Другие2\"}]"
+              }
+            ],
+            "qChildren": []
+          },
+          {
+            "qInfo": {
+              "qId": "mAguB",
+              "qType": "auto-chart"
+            },
+            "qPatches": [],
+            "qChildren": []
+          }
+        ]
+      }
+    ]
+  }
+}
