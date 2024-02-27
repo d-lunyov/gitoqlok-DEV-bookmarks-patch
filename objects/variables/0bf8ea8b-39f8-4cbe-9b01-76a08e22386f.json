@@ -1,0 +1,16 @@
+{
+  "qInfo": {
+    "qId": "0bf8ea8b-39f8-4cbe-9b01-76a08e22386f",
+    "qType": "variable"
+  },
+  "qMetaDef": {
+    "isBlueprintItem": true
+  },
+  "qName": "vColumn",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "RowGroup"
+}
